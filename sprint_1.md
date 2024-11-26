@@ -42,7 +42,7 @@
 | João Barreto                      | [#436](#436)                                           |
 | Lucas Felipe Soares         | [#372](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/372), [#433](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/433), [#440](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/440)              |
 | Lucas Spinosa                     | [#372](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/372), [#433](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/433)                             |
-| Mateus de Almeida                 | [#439](#439)                                           |
+| Mateus de Almeida                 | [#439](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/439), [#398](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/398)                                           |
 | Pedro Henrique Rodrigues de Carvalho | N/A                                                 |
 | Silas Souza                       | [#432](#432)                                           |
 | chaydson                          | N/A                                                   |
@@ -101,9 +101,9 @@
 - **Relatos:** [RELATOS DO MEMBRO, SE HOUVER]
 
 ### Mateus de Almeida
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:** [DESCRIÇÃO DAS DIFICULDADES]
-- **Relatos:** [RELATOS DO MEMBRO, SE HOUVER]
+- **Tarefas concluídas:** [#439](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/439), [#398](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/398)
+- **Dificuldades encontradas:** Minha maior dificuldade foi entender a estrutura do projeto.
+- **Relatos:** Finalizei a issue [#439](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/439) e para ter um melhor aproveitamento nessa sprint consegui realizar a issue [#398](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/398).
 
 ### Silas Souza
 - **Tarefas concluídas:** 
