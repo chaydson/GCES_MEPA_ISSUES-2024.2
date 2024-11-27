@@ -37,7 +37,7 @@
 | Artur Rodrigues                   | [#436](#436)                                           |
 | Delziron Braz                     | [#419](#419), [#352](#352)                             |
 | Felipegf1                         | [#427](#427)                                           |
-| GabrielMR360                      | [#432](#432)                                           |
+| GabrielMR360                      | [#432](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/432) |
 | Guilherme Gonçalves               | [#192](#192)                                           |
 | João Barreto                      | [#436](#436)                                           |
 | Lucas Felipe Soares         | [#372](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/372), [#433](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/433), [#440](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/440)              |
@@ -81,9 +81,9 @@
 - **Relatos:** [RELATOS DO MEMBRO, SE HOUVER]
 
 ### GabrielMR360
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:** [DESCRIÇÃO DAS DIFICULDADES]
-- **Relatos:** [RELATOS DO MEMBRO, SE HOUVER]
+- **Tarefas concluídas:** [#432](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/432)
+- **Dificuldades encontradas:** Compreensão da arquitetura do projeto para a realização da issue que peguei para fazer e identificar onde tinha que ser a alteração.
+- **Relatos:** Para esta primeira sprint, fiz um pareamento com o Silas para realizar a issue. Pedimos acesso ao Sketch para o pessoal do projeto, a fim de visualizar onde precisava ser feita a alteração. Com isso, alteramos o que foi solicitado na issue.
 
 ### Guilherme Gonçalves
 - **Tarefas concluídas:** 
