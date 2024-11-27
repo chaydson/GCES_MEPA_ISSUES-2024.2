@@ -18,12 +18,12 @@
 | GabrielMR360                      | @GabrielMR360       |
 | Guilherme Gonçalves               | @GuilhermeDSa1013   |
 | João Barreto                      | @JoaoBarreto03      |
-| Lucas Felipe Soares         | @lucasfs1007        |
+| Lucas Felipe Soares               | @lucasfs1007        |
 | Lucas Spinosa                     | @LucasSpinosa       |
 | Mateus de Almeida                 | @Mateuszinnn        |
 | Pedro Henrique Rodrigues de Carvalho | @PedroHenrique2077 |
 | Silas Souza                       | @Silas-souza        |
-| chaydson                          | @chaydson           |
+| Chaydson Ferreira                 | @chaydson           |
 | felipegf1                         | @felipegf1          |
 
 
@@ -43,9 +43,9 @@
 | Lucas Felipe Soares         | [#372](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/372), [#433](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/433), [#440](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/440)              |
 | Lucas Spinosa                     | [#372](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/372), [#433](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/433)                             |
 | Mateus de Almeida                 | [#439](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/439), [#398](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/398)                                           |
-| Pedro Henrique Rodrigues de Carvalho | N/A                                                 |
+| Pedro Henrique Rodrigues de Carvalho | [#179](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/179)|
 | Silas Souza                       | [#432](#432)                                           |
-| chaydson                          | N/A                                                   |
+| Chaydson Ferreira                 | [#179](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/179)|
 
 
 ## Participação dos Membros da Equipe durante a sprint 1
@@ -64,6 +64,11 @@
 - **Tarefas concluídas:** 
 - **Dificuldades encontradas:** [DESCRIÇÃO DAS DIFICULDADES]
 - **Relatos:** [RELATOS DO MEMBRO, SE HOUVER]
+
+### Chaydson Ferreira
+- **Tarefas concluídas:** [#179](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/179)
+- **Dificuldades encontradas:** Olhar todo o codigo fonte procurando mensagens de erros e similares
+- **Relatos:** Fiz pareamento com o Pedro Henrique para resolver essa issue. Verificamos todo o codigo procurando strings repetidas e mensagens de erros com o objetivo de centralizar todas elas em um unico arquivo
 
 ### Delziron Braz
 - **Tarefas concluídas:** [#419](#419), [#352](#352)
