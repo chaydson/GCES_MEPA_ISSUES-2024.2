@@ -16,7 +16,7 @@
 | Beatriz Nascimento                | @Beatrizvn          |
 | Delziron Braz                     | @DelzironBraz       |
 | GabrielMR360                      | @GabrielMR360       |
-| Guilherme Gonçalves               | @GuilhermeDSa1013   |
+| Guilherme de Sá Gonçalves         | @GuilhermeDSa1013   |
 | João Barreto                      | @JoaoBarreto03      |
 | Lucas Felipe Soares               | @lucasfs1007        |
 | Lucas Spinosa                     | @LucasSpinosa       |
@@ -33,12 +33,12 @@
 | Nome                              | Issues                                                  |
 |-----------------------------------|--------------------------------------------------------|
 | Ana Beatriz Massuh                | [#360](#360)                                           |
-| Artur Jackson                     | [#442](#442)                                           |
+| Artur Jackson                     | [#442](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/442)                                           |
 | Artur Rodrigues                   | [#436](#436)                                           |
 | Delziron Braz                     | [#419](#419), [#352](#352)                             |
 | Felipegf1                         | [#427](#427)                                           |
-| GabrielMR360                      | [#432](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/432) |
-| Guilherme Gonçalves               | [#192](#192)                                           |
+| GabrielMR360                      | [#432](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/432) |                                        |
+| Guilherme de Sá Gonçalves         | [#192](#192), [#442](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/442)                                                   |
 | João Barreto                      | [#436](#436)                                           |
 | Lucas Felipe Soares         | [#372](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/372), [#433](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/433), [#440](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/440)              |
 | Lucas Spinosa                     | [#372](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/372), [#433](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/433)                             |
@@ -56,7 +56,7 @@
 - **Relatos:** [RELATOS DO MEMBRO, SE HOUVER]
 
 ### Artur Jackson
-- **Tarefas concluídas:** 
+- **Tarefas concluídas:** [#442](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/442)
 - **Dificuldades encontradas:** [DESCRIÇÃO DAS DIFICULDADES]
 - **Relatos:** [RELATOS DO MEMBRO, SE HOUVER]
 
@@ -85,10 +85,10 @@
 - **Dificuldades encontradas:** Compreensão da arquitetura do projeto para a realização da issue que peguei para fazer e identificar onde tinha que ser a alteração.
 - **Relatos:** Para esta primeira sprint, fiz um pareamento com o Silas para realizar a issue. Pedimos acesso ao Sketch para o pessoal do projeto, a fim de visualizar onde precisava ser feita a alteração. Com isso, alteramos o que foi solicitado na issue.
 
-### Guilherme Gonçalves
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:** [DESCRIÇÃO DAS DIFICULDADES]
-- **Relatos:** [RELATOS DO MEMBRO, SE HOUVER]
+### Guilherme de Sá Gonçalves
+- **Tarefas concluídas:** [#442](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/442)
+- **Dificuldades encontradas:** Nessa primeira issue não houve dificuldades, fiz pareamento com o Artur Jackson e encontramos uma forma simples de resolver. Porém senti dificuldade em saber o passo a passo depois que terminamos a issue, fiquei sem saber exatamente para onde fazer o MR, e se podia dar update fork depois do MR, essas coisas.
+- **Relatos:** Nessa primeira sprint, o foco foi configurar o ambiente, tive uma dificuldade com o docker, por conta da minha versão antiga, mas bastou desisintalar e instalar de novo, que tudo deu certo, o Chaydson me ajudou nessa parte. Me dediquei a aprender um pouco de como é a organização do código em si, e ver mais sobre o .tsx, que foi uma tecnologia que mexi bem pouco até agora. Senti uma falta de informação nas issues, a #442, do bug de redimensionar os gráficos, até que estava bem explicativa com o vídeo, porém a #192, de colocar "." para milhar, parecia desatualizada, pois todos os números já estavam seguindo a regra, bom que pude conversar com o pessoal do MEPA, para tirar minhas dúvidas, principalmente nesse começo.
 
 ### João Barreto
 - **Tarefas concluídas:** 
