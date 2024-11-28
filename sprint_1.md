@@ -71,9 +71,9 @@ Também colaborei com ele na issue #419, ajustando o estado inicial do menu prin
 - **Relatos:** Fiz pareamento com o João Barreto para resolver esta issue. Fiz a configuração de ambiente do projeto e, em relação à codificação, alteramos um componente de renderização de grid dos cards das distribuidoras afim de resolver o bug descrito na issue. Foi tranquilo, não tive muitos problemas.
 
 ### Beatriz Vieira Nascimento
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:** [DESCRIÇÃO DAS DIFICULDADES]
-- **Relatos:** [RELATOS DO MEMBRO, SE HOUVER]
+- **Tarefas concluídas: ** Nenhuma issue concluída
+- **Dificuldades encontradas:** 
+- **Relatos:** 
 
 ### Chaydson Ferreira
 - **Tarefas concluídas:** [#179](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/179)
