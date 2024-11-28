@@ -1,4 +1,4 @@
-# Sprint [NÚMERO DA SPRINT] - Documentação
+# Sprint 1 - Documentação
 
 ## Informações Gerais
 - **Início da Sprint:** 19/11/2024
