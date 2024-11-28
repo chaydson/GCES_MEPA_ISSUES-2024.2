@@ -56,9 +56,8 @@
 - **Tarefas concluídas:** [#360](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/360)
 - **Dificuldades encontradas:** Configuração e resolução de problemas com Docker (comando docker compose, permissões e inicialização do daemon).
 Localização e interpretação de especificações no Figma para implementação precisa dos campos no formulário.
-- **Relatos:** Contei com a ajuda do Delziron para entender melhor a issue [#346](Contei com a ajuda do Delziron para entender melhor a issue #346 e solucionar problemas técnicos no Docker.
+- **Relatos:** Contei com a ajuda do Delziron para entender melhor a issue [#346](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/346) Contei com a ajuda do Delziron para entender melhor a issue e solucionar problemas técnicos no Docker.
 Também colaborei com ele na issue #419, ajustando o estado inicial do menu principal para resolver o problema de navegação.
-) e solucionar problemas técnicos no Docker.
 
 ### Artur Jackson
 - **Tarefas concluídas:** [#442](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/442)
@@ -82,7 +81,7 @@ Também colaborei com ele na issue #419, ajustando o estado inicial do menu prin
 
 ### Delziron Braz
 - **Tarefas concluídas:** [#419](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/419)
-- **Dificuldades encontradas:** dentificar o comportamento esperado do menu principal ao navegar, conforme descrito na issue [#234](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/234).
+- **Dificuldades encontradas:** Identificar o comportamento esperado do menu principal ao navegar, conforme descrito na issue [#234](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/234).
 - **Relatos:** Trabalhei em parceria com Anabeatriz para resolver a issue #419, ajustando o estado inicial do menu principal.
 Contribui com insights e suporte técnico na issue [#360](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/360), garantindo que a solução fosse implementada conforme o design proposto.
 
