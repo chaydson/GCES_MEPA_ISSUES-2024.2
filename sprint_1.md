@@ -119,7 +119,7 @@ Contribui com insights e suporte técnico na issue [#360](https://gitlab.com/lap
 ### Mateus de Almeida
 - **Tarefas concluídas:** [#439](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/439), [#398](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/398)
 - **Dificuldades encontradas:** Minha maior dificuldade foi entender a estrutura do projeto.
-- **Relatos:** Finalizei a issue [#439](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/439) e para ter um melhor aproveitamento nessa sprint consegui realizar a issue [#398](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/398).
+- **Relatos:** Finalizei a issue [#439](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/439) que era a respeito do ajuste da legenda do gráfico 4 mais especificamente do gráfico verde e para ter um melhor aproveitamento nessa sprint consegui realizar a issue [#398](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/398) que tinha como objetivo acrescentar um estado na pesquisa de pessoas "ninguém encontrado".
 
 ### Pedro Henrique Rodrigues de Carvalho
 - **Tarefas concluídas:** [#179](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/179)
