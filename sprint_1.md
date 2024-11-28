@@ -32,11 +32,11 @@
 
 | Nome                              | Issues                                                  |
 |-----------------------------------|--------------------------------------------------------|
-| Ana Beatriz Massuh                | [#360](#360)                                           |
+| Ana Beatriz Massuh                | [#360](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/360)                                           |
 | Artur Jackson                     | [#442](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/442)                                           |
 | Artur Rodrigues                   | [#436](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/436)                                           |
 | Beatriz Vieira                | [#387](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/387)|
-| Delziron Braz                     | [#419](#419), [#352](#352)                             |
+| Delziron Braz                     | [#419](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/419)                           |
 | Felipegf1                         | [#427](#427)                                           |
 | GabrielMR360                      | [#432](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/432) |                                        |
 | Guilherme de Sá Gonçalves         | [#192](#192), [#442](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/442)                                                   |
@@ -53,9 +53,12 @@
 ## Participação dos Membros da Equipe durante a sprint 1
 
 ### Ana Beatriz Massuh
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:** [DESCRIÇÃO DAS DIFICULDADES]
-- **Relatos:** [RELATOS DO MEMBRO, SE HOUVER]
+- **Tarefas concluídas:** [#360](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/360)
+- **Dificuldades encontradas:** Configuração e resolução de problemas com Docker (comando docker compose, permissões e inicialização do daemon).
+Localização e interpretação de especificações no Figma para implementação precisa dos campos no formulário.
+- **Relatos:** Contei com a ajuda do Delziron para entender melhor a issue [#346](Contei com a ajuda do Delziron para entender melhor a issue #346 e solucionar problemas técnicos no Docker.
+Também colaborei com ele na issue #419, ajustando o estado inicial do menu principal para resolver o problema de navegação.
+) e solucionar problemas técnicos no Docker.
 
 ### Artur Jackson
 - **Tarefas concluídas:** [#442](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/442)
@@ -78,9 +81,10 @@
 - **Relatos:** Fiz pareamento com o Pedro Henrique para resolver essa issue. Verificamos todo o codigo procurando strings repetidas e mensagens de erros com o objetivo de centralizar todas elas em um unico arquivo
 
 ### Delziron Braz
-- **Tarefas concluídas:** [#419](#419), [#352](#352)
-- **Dificuldades encontradas:** [DESCRIÇÃO DAS DIFICULDADES]
-- **Relatos:** [RELATOS DO MEMBRO, SE HOUVER]
+- **Tarefas concluídas:** [#419](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/419)
+- **Dificuldades encontradas:** dentificar o comportamento esperado do menu principal ao navegar, conforme descrito na issue [#234](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/234).
+- **Relatos:** Trabalhei em parceria com Anabeatriz para resolver a issue #419, ajustando o estado inicial do menu principal.
+Contribui com insights e suporte técnico na issue [#360](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/360), garantindo que a solução fosse implementada conforme o design proposto.
 
 ### Felipegf1
 - **Tarefas concluídas:** [#427](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/427)
