@@ -45,7 +45,9 @@
 | Mateus de Almeida                 | [#439](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/439), [#398](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/398)                                           |
 | Pedro Henrique Rodrigues de Carvalho | [#179](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/179)|
 | Silas Souza                       | [#432](#432)                                           |
+| Beatriz Vieira                | [#387](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/387)|
 | Chaydson Ferreira                 | [#179](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/179)|
+
 
 
 ## Participação dos Membros da Equipe durante a sprint 1
@@ -111,6 +113,11 @@
 - **Relatos:** Finalizei a issue [#439](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/439) e para ter um melhor aproveitamento nessa sprint consegui realizar a issue [#398](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/398).
 
 ### Silas Souza
+- **Tarefas concluídas:** 
+- **Dificuldades encontradas:** [DESCRIÇÃO DAS DIFICULDADES]
+- **Relatos:** [RELATOS DO MEMBRO, SE HOUVER]
+
+### Beatriz Vieira Nascimento
 - **Tarefas concluídas:** 
 - **Dificuldades encontradas:** [DESCRIÇÃO DAS DIFICULDADES]
 - **Relatos:** [RELATOS DO MEMBRO, SE HOUVER]
