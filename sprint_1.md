@@ -34,13 +34,13 @@
 |-----------------------------------|--------------------------------------------------------|
 | Ana Beatriz Massuh                | [#360](#360)                                           |
 | Artur Jackson                     | [#442](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/442)                                           |
-| Artur Rodrigues                   | [#436](#436)                                           |
+| Artur Rodrigues                   | [#436](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/436)                                           |
 | Beatriz Vieira                | [#387](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/387)|
 | Delziron Braz                     | [#419](#419), [#352](#352)                             |
 | Felipegf1                         | [#427](#427)                                           |
 | GabrielMR360                      | [#432](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/432) |                                        |
 | Guilherme de Sá Gonçalves         | [#192](#192), [#442](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/442)                                                   |
-| João Barreto                      | [#436](#436)                                           |
+| João Barreto                      | [#436](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/436)                                           |
 | Lucas Felipe Soares         | [#372](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/372), [#433](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/433), [#440](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/440)              |
 | Lucas Spinosa                     | [#372](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/372), [#433](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/433)                             |
 | Mateus de Almeida                 | [#439](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/439), [#398](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/398)                                           |
@@ -98,9 +98,9 @@
 - **Relatos:** Nessa primeira sprint, o foco foi configurar o ambiente, tive uma dificuldade com o docker, por conta da minha versão antiga, mas bastou desisintalar e instalar de novo, que tudo deu certo, o Chaydson me ajudou nessa parte. Me dediquei a aprender um pouco de como é a organização do código em si, e ver mais sobre o .tsx, que foi uma tecnologia que mexi bem pouco até agora. Senti uma falta de informação nas issues, a #442, do bug de redimensionar os gráficos, até que estava bem explicativa com o vídeo, porém a #192, de colocar "." para milhar, parecia desatualizada, pois todos os números já estavam seguindo a regra, bom que pude conversar com o pessoal do MEPA, para tirar minhas dúvidas, principalmente nesse começo.
 
 ### João Barreto
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:** [DESCRIÇÃO DAS DIFICULDADES]
-- **Relatos:** [RELATOS DO MEMBRO, SE HOUVER]
+- **Tarefas concluídas:** [#436](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/436)
+- **Dificuldades encontradas:** Dificuldades em entender o código e o rastreamento dos componentes por ser o primeiro contato com o projeto. Após o entendimento, ficou mais fácil encontrar e solucionar o problema.
+- **Relatos:** Fiz pareamento com o Artur Rodrigues para resolver esta issue. Fiz testes nos componentes do projeto para encontrar os que estavam presentes na página das distribuidoras. Elaborei diferentes estratégias para resolução do problema e até encontrar a solução correta, testei outras formas de resolver, como recarregar a página a cada mudança de distribuidora. No entanto, a mais coerente e que resolveu efetivamente, foi encontrar os eventos que eram disparados com os cards e impedir o clique, caso a distribuidora estivesse selecionada.
 
 ### Lucas Felipe Soares
 - **Tarefas concluídas:** [#372](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/372), [#433](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/433), [#440](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/440) 
