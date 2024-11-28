@@ -121,7 +121,7 @@ Contribui com insights e suporte técnico na issue [#360](https://gitlab.com/lap
 - **Dificuldades encontradas:** Minha maior dificuldade foi entender a estrutura do projeto.
 - **Relatos:** Finalizei a issue [#439](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/439) e para ter um melhor aproveitamento nessa sprint consegui realizar a issue [#398](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/398).
 
-- ### Pedro Henrique Rodrigues de Carvalho
+### Pedro Henrique Rodrigues de Carvalho
 - **Tarefas concluídas:** [#179](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/179)
 - **Dificuldades encontradas:** Procurar no frontend inteiro todas as strings que eram exibidas
 - **Relatos:** Fiz pareamento o com Chaydson para resolver a issue. Varremos todo o codigo procurando as strings que eram mostradas na tela com o objetivo de centralizar todas elas em um unico arquivo
