@@ -57,8 +57,8 @@
 
 ### Artur Jackson
 - **Tarefas concluídas:** [#442](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/442)
-- **Dificuldades encontradas:** [DESCRIÇÃO DAS DIFICULDADES]
-- **Relatos:** [RELATOS DO MEMBRO, SE HOUVER]
+- **Dificuldades encontradas:** Não houve muitas dificuldades fora o entedimento da estrutura do projeto em si que já era esperado.
+- **Relatos:** Nessa primeira sprint fiz a configuração do ambiente e fiz pareamento com o Guilherme Gonçalves para a realização da issue #442 sobre o redimensionamento dos gráficos na aba de análise das UC's.
 
 ### Artur Rodrigues
 - **Tarefas concluídas:** 
