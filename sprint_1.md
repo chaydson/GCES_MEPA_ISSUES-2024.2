@@ -83,9 +83,9 @@
 - **Relatos:** [RELATOS DO MEMBRO, SE HOUVER]
 
 ### Felipegf1
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:** [DESCRIÇÃO DAS DIFICULDADES]
-- **Relatos:** [RELATOS DO MEMBRO, SE HOUVER]
+- **Tarefas concluídas:** [#427](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/427)
+- **Dificuldades encontradas:** Por não conhecer o projeto , a dificuldade inicial foi de entender a estrutura e a organização do projeto.
+- **Relatos:** Nessa primeira sprint tive alguns problemas para rodar a aplicação que posteriormente foram resolvidos e após entender como funciona o projeto e identificar os elementos que envolviam a minha issue foi bem tranquilo de finalizar. 
 
 ### GabrielMR360
 - **Tarefas concluídas:** [#432](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/432)
