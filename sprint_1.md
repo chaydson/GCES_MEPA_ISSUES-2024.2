@@ -55,7 +55,7 @@
 - **Tarefas concluídas:** [#360](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/360)
 - **Dificuldades encontradas:** Configuração e resolução de problemas com Docker (comando docker compose, permissões e inicialização do daemon).
 Localização e interpretação de especificações no Figma para implementação precisa dos campos no formulário.
-- **Relatos:** Contei com a ajuda do Delziron para entender melhor a issue [#346](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/346) Contei com a ajuda do Delziron para entender melhor a issue e solucionar problemas técnicos no Docker.
+- **Relatos:** Contei com a ajuda do Delziron para entender melhor a issue [#346](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/346) e solucionar problemas técnicos no Docker, adicionamos um novo campo ao formulário usando o componente Controller do React Hook Form para gerenciar os dados e validações.
 Também colaborei com ele na issue #419, ajustando o estado inicial do menu principal para resolver o problema de navegação.
 
 ### Artur Jackson
