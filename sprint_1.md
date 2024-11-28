@@ -127,8 +127,8 @@ Contribui com insights e suporte técnico na issue [#360](https://gitlab.com/lap
 - **Relatos:** Fiz pareamento o com Chaydson para resolver a issue. Varremos todo o codigo procurando as strings que eram mostradas na tela com o objetivo de centralizar todas elas em um unico arquivo
 
 ### Silas Souza
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:** [DESCRIÇÃO DAS DIFICULDADES]
-- **Relatos:** [RELATOS DO MEMBRO, SE HOUVER]
+- **Tarefas concluídas:** [#432](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/432)
+- **Dificuldades encontradas:** Dificuldade na ambientação do projeto.
+- **Relatos:** Para esta primeira sprint, fiz um pareamento com o Gabriel para realizar a issue. Pedimos acesso ao Sketch para o pessoal do projeto, a fim de visualizar onde precisava ser feita a alteração. Com isso, alteramos o que foi solicitado na issue.
 
 
