@@ -4,7 +4,6 @@
 - **Início da Sprint:** 19/11/2024
 - **Fim da Sprint:** 28/11/2024
 - **Objetivo da Sprint:** Início das contribuições no Projeto MEC-Energia
-# Lista de Membros
 
 # Lista de Membros
 
