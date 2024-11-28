@@ -35,6 +35,7 @@
 | Ana Beatriz Massuh                | [#360](#360)                                           |
 | Artur Jackson                     | [#442](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/442)                                           |
 | Artur Rodrigues                   | [#436](#436)                                           |
+| Beatriz Vieira                | [#387](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/387)|
 | Delziron Braz                     | [#419](#419), [#352](#352)                             |
 | Felipegf1                         | [#427](#427)                                           |
 | GabrielMR360                      | [#432](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/432) |                                        |
@@ -45,7 +46,6 @@
 | Mateus de Almeida                 | [#439](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/439), [#398](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/398)                                           |
 | Pedro Henrique Rodrigues de Carvalho | [#179](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/179)|
 | Silas Souza                       | [#432](#432)                                           |
-| Beatriz Vieira                | [#387](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/387)|
 | Chaydson Ferreira                 | [#179](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/179)|
 
 
@@ -63,6 +63,11 @@
 - **Relatos:** Nessa primeira sprint fiz a configuração do ambiente e fiz pareamento com o Guilherme Gonçalves para a realização da issue #442 sobre o redimensionamento dos gráficos na aba de análise das UC's.
 
 ### Artur Rodrigues
+- **Tarefas concluídas:** 
+- **Dificuldades encontradas:** [DESCRIÇÃO DAS DIFICULDADES]
+- **Relatos:** [RELATOS DO MEMBRO, SE HOUVER]
+
+### Beatriz Vieira Nascimento
 - **Tarefas concluídas:** 
 - **Dificuldades encontradas:** [DESCRIÇÃO DAS DIFICULDADES]
 - **Relatos:** [RELATOS DO MEMBRO, SE HOUVER]
@@ -117,8 +122,4 @@
 - **Dificuldades encontradas:** [DESCRIÇÃO DAS DIFICULDADES]
 - **Relatos:** [RELATOS DO MEMBRO, SE HOUVER]
 
-### Beatriz Vieira Nascimento
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:** [DESCRIÇÃO DAS DIFICULDADES]
-- **Relatos:** [RELATOS DO MEMBRO, SE HOUVER]
 
