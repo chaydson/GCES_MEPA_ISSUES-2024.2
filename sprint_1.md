@@ -63,7 +63,7 @@
 - **Relatos:** Nessa primeira sprint fiz a configuração do ambiente e fiz pareamento com o Guilherme Gonçalves para a realização da issue #442 sobre o redimensionamento dos gráficos na aba de análise das UC's.
 
 ### Artur Rodrigues
-- **Tarefas concluídas: [#436](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/436)
+- **Tarefas concluídas:** [#436](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/436)
 - **Dificuldades encontradas:** Apesar de tranquila, minha principal e única dificuldade foi apenas entender o código e como ele é organizado e feito, basicamente foi a dificuldade de entender de cara a arquitetura do projeto. Mas logo consegui entender e foi tranquilo de resolver a issue que eu escolhi para realizar.
 - **Relatos:** Fiz pareamento com o João Barreto para resolver esta issue. Fiz a configuração de ambiente do projeto e, em relação à codificação, alteramos um componente de renderização de grid dos cards das distribuidoras afim de resolver o bug descrito na issue. Foi tranquilo, não tive muitos problemas.
 
