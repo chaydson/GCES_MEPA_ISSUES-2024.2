@@ -102,8 +102,8 @@
 
 ### Lucas Spinosa
 - **Tarefas concluídas:** [#372](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/372), [#433](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/433)
-- **Dificuldades encontradas:** [DESCRIÇÃO DAS DIFICULDADES]
-- **Relatos:** [RELATOS DO MEMBRO, SE HOUVER]
+- **Dificuldades encontradas:** Tive dificuldade em entender a estrutura do projeto.
+- **Relatos:** Nessa primeira sprint fiz pareamento com [Lucas Felipe Soares](https://gitlab.com/lucasfs1007) para resolver as issues [#372](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/372) e [#433](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/433). Tive um pouco de dificuldade em configurar a ambientação, por conta de ter que rodar scripts, mas achei uma documentação que me ajudou.
 
 ### Mateus de Almeida
 - **Tarefas concluídas:** [#439](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/439), [#398](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/398)
