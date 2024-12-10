@@ -34,7 +34,7 @@
 | Ana Beatriz Massuh                |                                           |
 | Artur Jackson                     |                                           |
 | Artur Rodrigues                   |                                            |
-| Beatriz Vieira                ||
+| Beatriz Vieira                | [#387](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/387)   |
 | Delziron Braz                     |                           |
 | Felipegf1                         |                                           |
 | GabrielMR360                      | |                                        |
@@ -67,9 +67,9 @@
 - **Relatos:** 
 
 ### Beatriz Vieira Nascimento
-- **Tarefas concluídas: 
-- **Dificuldades encontradas:** 
-- **Relatos:** 
+- **Tarefas concluídas:** [#387](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/387)
+- **Dificuldades encontradas:** O único problema que encontrei enquanto trabalhava na issue foi que, ao tentar transformar a data vinda do contrato em um objeto `Date`, ela sempre era convertida para o dia anterior. No entanto, após uma breve pesquisa, consegui resolver o problema. Segue a [solução](https://stackoverflow.com/questions/7556591/is-the-javascript-date-object-always-one-day-off).
+- **Relatos:** A issue tinha como objetivo evitar uma renovação com a mesma data ou uma data anterior ao contrato atual. Foi uma tarefa bem tranquila de realizar, e não encontrei muitas dificuldades.
 
 ### Chaydson Ferreira
 - **Tarefas concluídas:** 
