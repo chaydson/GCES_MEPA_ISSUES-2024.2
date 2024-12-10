@@ -42,7 +42,7 @@
 | João Barreto                      |                                           |
 | Lucas Felipe Soares         |[#408](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/408) e [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194)     |
 | Lucas Spinosa                     |                             |
-| Mateus de Almeida                 |          |
+| Mateus de Almeida                 | [#216](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/216#resumo), [#443](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/443) e [#445](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/445)         |
 | Pedro Henrique Rodrigues de Carvalho | |
 | Silas Souza                       |                                            |
 | Chaydson Ferreira                 | |
@@ -112,9 +112,9 @@
 - **Relatos:** 
 
 ### Mateus de Almeida
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:**
-- **Relatos:** 
+- **Tarefas concluídas:** [#216](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/216#resumo), [#443](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/443) e [#445](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/445)
+- **Dificuldades encontradas:** As dificuldades encontradas continuam semelhantes a sprint anterior, ou seja, dificuldade com a arquitetura do projeto. Nessa sprint peguei uma issue da API [#216](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/216#resumo) e tive algumas dificuldades como a obtenção do token para fazer requisições a API, mas que foram sanadas pelo Flávio Vieira, além disso tive dificuldade para entender algumas respostas da API, mas em conversa com o Flávio consegui entender melhor as regras de negócio.
+- **Relatos:** Consegui implementar o que as issues pediam, que eram respectivamente: Adicionar validação de data de início de vigência do contrato, Corrigir cor das setas de paginação nas tabelas de Pessoas e Instituições e Mensagem de erro de "Distribuidora já cadastrada".
 
 ### Pedro Henrique Rodrigues de Carvalho
 - **Tarefas concluídas:** 
