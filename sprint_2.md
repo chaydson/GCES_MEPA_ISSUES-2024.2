@@ -59,7 +59,7 @@
 ### Artur Jackson
 - **Tarefas concluídas:**  [#192](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/192) e [#442](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/442)
 - **Dificuldades encontradas:** Verificar os valores que ainda não possuiam o ponto ou virgula.
-- **Relatos:** Fiz as issues junto pareando com o Guilherme de Sá. Fizemos uma correção na issue 442 da sprint passada, com o feedback do João, arrumamos um espaçamento em branco desnecessário abaixo dos gráficos na aba de Análise. Também estou com issue 444 sobre corrigir o texto da data de fatura onde já comecei a tentar resolver, mas estou com alguns problemas no momento, porém vai ser meu foco na próxima sprint juntamente com a realização de testes
+- **Relatos:** Fiz as issues pareando com o Guilherme de Sá. Fizemos uma correção na issue 442 da sprint passada, com o feedback do João, arrumamos um espaçamento em branco desnecessário abaixo dos gráficos na aba de Análise. Também estou com issue 444 sobre corrigir o texto da data de fatura onde já comecei a tentar resolver, mas estou com alguns problemas no momento, porém vai ser meu foco na próxima sprint juntamente com a realização de testes
 
 ### Artur Rodrigues
 - **Tarefas concluídas:** 
