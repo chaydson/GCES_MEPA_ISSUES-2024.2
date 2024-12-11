@@ -38,7 +38,7 @@
 | Delziron Braz                     |                           |
 | Felipegf1                         |                                           |
 | GabrielMR360                      | |                                        |
-| Guilherme de Sá Gonçalves         |                                                   |
+| Guilherme de Sá Gonçalves         | [#192](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/192) e [#442](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/442)                                              |
 | João Barreto                      |                                           |
 | Lucas Felipe Soares         |[#408](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/408) e [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194)     |
 | Lucas Spinosa                     |                             |
@@ -49,7 +49,7 @@
 
 
 
-## Participação dos Membros da Equipe durante a sprint 1
+## Participação dos Membros da Equipe durante a sprint 2
 
 ### Ana Beatriz Massuh
 - **Tarefas concluídas:** 
@@ -92,9 +92,9 @@
 - **Relatos:** 
 
 ### Guilherme de Sá Gonçalves
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:** 
-- **Relatos:** 
+- **Tarefas concluídas:** [#192](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/192) e [#442](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/442)
+- **Dificuldades encontradas:** Nada foi muito difícil, porém a parte mais trabalhosa foi fazer a varredura de todos os campos numéricos, para ver se a regra, do "." na casa de milhar, da issue #192 estava sendo aplicada ou não.
+- **Relatos:** Uma vez encontradas as poucas ocorrências, apenas conversei com o Rodrigo e o João sobre como era pra ser formatado, pois já havia duas fórmulas que cuidavam disso: Uma com "." e duas casas decimais, e outra, sem as casas decimais. Uma vez respondida, fiz as alterações junto do meu par, Artur Jackson. Além disso foi feito uma correção na issue da sprint passada, com o feedback do João, arrumamos um espaçamento em branco desnecessário abaixo dos gráficos na aba de Análise. Também comecei a estudar mais as estruturas dos testes no backend, área que ainda não tinha explorado, porém vai ser meu foco na próxima sprint, ligado de forma geral a issue [#219](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/219)
 
 ### João Barreto
 - **Tarefas concluídas:** 

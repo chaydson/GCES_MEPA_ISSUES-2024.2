@@ -38,7 +38,7 @@
 | Delziron Braz                     | [#419](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/419)                           |
 | Felipegf1                         | [#427](#427)                                           |
 | GabrielMR360                      | [#432](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/432) |                                        |
-| Guilherme de Sá Gonçalves         | [#192](#192), [#442](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/442)                                                   |
+| Guilherme de Sá Gonçalves         | [#442](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/442)                                                   |
 | João Barreto                      | [#436](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/436)                                           |
 | Lucas Felipe Soares         | [#372](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/372), [#433](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/433), [#440](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/440)              |
 | Lucas Spinosa                     | [#372](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/372), [#433](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/433)                             |
