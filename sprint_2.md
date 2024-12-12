@@ -14,7 +14,7 @@
 | Artur Rodrigues                   | @ArturRSA19         |
 | Beatriz Nascimento                | @Beatrizvn          |
 | Delziron Braz                     | @DelzironBraz       |
-| GabrielMR360                      | @GabrielMR360       |
+| Gabriel Marcolino Rodrigues        | @GabrielMR360       |
 | Guilherme de Sá Gonçalves         | @GuilhermeDSa1013   |
 | João Barreto                      | @JoaoBarreto03      |
 | Lucas Felipe Soares               | @lucasfs1007        |
@@ -37,7 +37,7 @@
 | Beatriz Vieira                | [#387](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/387)   |
 | Delziron Braz                     |                           |
 | Felipegf1                         |                                           |
-| GabrielMR360                      | |                                        |
+| Gabriel Marcolino Rodrigues       | [#294](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/294) e [#137](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/137) |                                        |
 | Guilherme de Sá Gonçalves         | [#192](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/192) e [#442](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/442)                                              |
 | João Barreto                      |                                           |
 | Lucas Felipe Soares         |[#408](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/408) e [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194)     |
@@ -86,10 +86,10 @@
 - **Dificuldades encontradas:** Apos entender melhor a estrutura do projeto , nessa sprint a maior dificuldade foi apenas alguns problemas tecnicos na minha maquina
 - **Relatos:**  na sprint passada a minha primeira issue ainda nao havia passado no merge porem foi aprovada nessa sprint faltando apenas um detalhe que surgiu de ultima hora pra ser corrigido. E na segunda issue o problema foi simples de ser resolvido bastando apenas ajustar um posicionamento na tela por conta de um bug especifico com o rodapé
 
-### GabrielMR360
+### Gabriel Marcolino Rodrigues
 - **Tarefas concluídas:** 
-- **Dificuldades encontradas:** 
-- **Relatos:** 
+- **Dificuldades encontradas:** A principal dificuldade na #294 é para avaliar a possibilidade de unificar a tabela da prévia e a tabela na tela de UC em um único componente parametrizado. Já na #137 é no entendimento da regra de negócio da recomendação a qual pretendo buscar melhor entendimento com alguém do projeto. 
+- **Relatos:** Para essa sprint peguei duas issues mais trabalhosas do que a primeira. A issue #294 tem vários ajustes no front-end que precisam ser feitos, já resolvi alguns deles e estou focando nela primeiro. Já a issue #137 é uma de back-end que precisa aumentar a cobertura de testes referentes as recomendações. 
 
 ### Guilherme de Sá Gonçalves
 - **Tarefas concluídas:** [#192](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/192) e [#442](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/442)
