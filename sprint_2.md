@@ -31,7 +31,7 @@
 
 | Nome                              | Issues                                                  |
 |-----------------------------------|--------------------------------------------------------|
-| Ana Beatriz Massuh                |                                           |
+| Ana Beatriz Massuh                | [#360](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/360) e [#419](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/419)                                           |
 | Artur Jackson                     | [#192](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/192) e [#442](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/442)                                          |
 | Artur Rodrigues                   |                                            |
 | Beatriz Vieira                | [#387](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/387)   |
@@ -52,9 +52,9 @@
 ## Participação dos Membros da Equipe durante a sprint 2
 
 ### Ana Beatriz Massuh
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:** 
-- **Relatos:** 
+- **Tarefas concluídas:** [#360](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/360), [#419](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/419) e verificação dos merges
+- **Dificuldades encontradas:** Garantir que as implementações dos membros não interferissem ou quebrassem as funcionalidades existentes, o que demandou tempo para entender o contexto de cada alteração.
+- **Relatos:** Realizei uma análise cuidadosa das alterações solicitadas pela equipe, verificando um por um para garantir que fossem compatíveis com a base de código atual, fiz ajustes significativos nos campos de "Potência Instalada" e "Demanda de Geração", implementando a sincronização bidirecional entre eles, como solicitado na sprint passada e  junto ao Delziron implementei a persistência do estado de abertura do menu lateral usando localStorage, o que permite que o menu mantenha seu estado entre atualizações e reaberturas da página.
 
 ### Artur Jackson
 - **Tarefas concluídas:**  [#192](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/192) e [#442](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/442)
