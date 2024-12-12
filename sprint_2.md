@@ -45,7 +45,7 @@
 | Mateus de Almeida                 | [#216](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/216#resumo), [#443](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/443) e [#445](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/445)         |
 | Pedro Henrique Rodrigues de Carvalho | |
 | Silas Souza                       |                                            |
-| Chaydson Ferreira                 | |
+| Chaydson Ferreira                 | [#415](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/415), [450](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/450), [449](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/449) |
 
 
 
