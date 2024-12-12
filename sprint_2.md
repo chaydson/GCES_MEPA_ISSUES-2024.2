@@ -41,7 +41,7 @@
 | Guilherme de Sá Gonçalves         | [#192](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/192) e [#442](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/442)                                              |
 | João Barreto                      |                                           |
 | Lucas Felipe Soares         |[#408](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/408) e [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194)     |
-| Lucas Spinosa                     |                             |
+| Lucas Spinosa                     | [#278](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/278) e [#251](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/251)  |
 | Mateus de Almeida                 | [#216](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/216#resumo), [#443](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/443) e [#445](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/445)         |
 | Pedro Henrique Rodrigues de Carvalho | |
 | Silas Souza                       |                                            |
@@ -107,9 +107,9 @@
 - **Relatos:** Fiz pareamento com o [Delziron Braz](https://gitlab.com/DelzironBraz) na issue [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-endosergia-api/-/issues/194) devido a quantidade de testes a serem explorados.
 
 ### Lucas Spinosa
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:** 
-- **Relatos:** 
+- **Tarefas concluídas:** Nenhuma
+- **Dificuldades encontradas:** Tive dificuldades com a arquitetura do projeto.
+- **Relatos:** Nessa sprint tive dificuldades em encontrar tempo para me dedicar às issues, e por isso não consegui finalizar as tarefas, ficando assim para a próxima sprint.
 
 ### Mateus de Almeida
 - **Tarefas concluídas:** [#216](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/216#resumo), [#443](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/443) e [#445](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/445)
