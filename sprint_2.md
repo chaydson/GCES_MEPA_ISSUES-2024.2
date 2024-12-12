@@ -81,10 +81,10 @@
 - **Dificuldades encontradas:** 
 - **Relatos:** 
 
-### Felipegf1
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:** 
-- **Relatos:**  
+### Felipe Guimaraes
+- **Tarefas concluídas:** [#427](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/427) e [#404](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/404)
+- **Dificuldades encontradas:** Apos entender melhor a estrutura do projeto , nessa sprint a maior dificuldade foi apenas alguns problemas tecnicos na minha maquina
+- **Relatos:**  na sprint passada a minha primeira issue ainda nao havia passado no merge porem foi aprovada nessa sprint faltando apenas um detalhe que surgiu de ultima hora pra ser corrigido. E na segunda issue o problema foi simples de ser resolvido bastando apenas ajustar um posicionamento na tela por conta de um bug especifico com o rodapé
 
 ### GabrielMR360
 - **Tarefas concluídas:** 
