@@ -117,10 +117,11 @@
 - **Relatos:** Consegui implementar o que as issues pediam, que eram respectivamente: Adicionar validação de data de início de vigência do contrato, Corrigir cor das setas de paginação nas tabelas de Pessoas e Instituições e Mensagem de erro de "Distribuidora já cadastrada".
 
 ### Pedro Henrique Rodrigues de Carvalho
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:** 
-- **Relatos:** 
-### Silas Souza
+- **Tarefas concluídas:** [#415](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/415), [450](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/450), [449](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/449)
+- **Dificuldades encontradas:** Entender as funções utilitárias e a estrutura de testes do frontend.
+- **Relatos:** Foram elaborados testes para funções da pasta utils. A configuração do Jest foi ajustada para fornecer detalhes sobre a cobertura dos testes. Iniciou-se uma issue para modularizar a tabela de faturas, porém esta não foi concluída devido a dúvidas persistentes.
+  
+- ### Silas Souza
 - **Tarefas concluídas:** 
 - **Dificuldades encontradas:** 
 - **Relatos:** 
