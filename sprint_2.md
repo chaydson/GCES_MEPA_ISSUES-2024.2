@@ -72,9 +72,9 @@
 - **Relatos:** A issue tinha como objetivo evitar uma renovação com a mesma data ou uma data anterior ao contrato atual. Foi uma tarefa bem tranquila de realizar, e não encontrei muitas dificuldades.
 
 ### Chaydson Ferreira
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:** 
-- **Relatos:** 
+- **Tarefas concluídas:** [#415](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/415), [450](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/450), [449](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/449)
+- **Dificuldades encontradas:** Entender a estrutura de testes do projeto
+- **Relatos:** Foram criados testes para funcoes da pasta utils, a configuracao do jest para apresentar detalhes sobre a cobertura e iniciado a issue para componentizar a tabela de faturas, porem essa nao foi finalizada devido a duvidas
 
 ### Delziron Braz
 - **Tarefas concluídas:** 
