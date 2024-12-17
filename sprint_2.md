@@ -35,7 +35,7 @@
 | Artur Jackson                     | [#192](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/192) e [#442](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/442)                                          |
 | Artur Rodrigues                   | [#218](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/218) |
 | Beatriz Vieira                | [#387](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/387)   |
-| Delziron Braz                     |                           |
+| Delziron Braz                     |   [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194), [#419](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/419)                        |
 | Felipegf1                         |                                           |
 | Gabriel Marcolino Rodrigues       | [#294](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/294) e [#137](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/137) |                                        |
 | Guilherme de Sá Gonçalves         | [#192](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/192) e [#442](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/442)                                              |
@@ -77,7 +77,7 @@
 - **Relatos:** Foram criados testes para funcoes da pasta utils, a configuracao do jest para apresentar detalhes sobre a cobertura e iniciado a issue para componentizar a tabela de faturas, porem essa nao foi finalizada devido a duvidas
 
 ### Delziron Braz
-- **Tarefas concluídas:** [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194) [#419](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/419) 
+- **Tarefas concluídas:** [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194), [#419](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/419) 
 - **Dificuldades encontradas:** Na issue [#419](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/419) a maior dificuldade foi encontrar uma solução que pudesse ser desenvolvidade sem a necessidade de resolver a issue do carregamenta da tela em conjunto, pois, houve dificuldade em encontrar o problema que causava o regarregamento das views 
 - **Relatos:** Foram criados testes para aumentar a cobertura do backend, onde cada passaram com êxito, como também, foi solucionada o problema com o estado do menu e a issue foi aceita.
 
