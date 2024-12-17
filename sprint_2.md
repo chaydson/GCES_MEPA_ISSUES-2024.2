@@ -33,13 +33,13 @@
 |-----------------------------------|--------------------------------------------------------|
 | Ana Beatriz Massuh                | [#360](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/360) e [#419](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/419)                                           |
 | Artur Jackson                     | [#192](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/192) e [#442](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/442)                                          |
-| Artur Rodrigues                   |                                            |
+| Artur Rodrigues                   | [#218](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/218) |
 | Beatriz Vieira                | [#387](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/387)   |
 | Delziron Braz                     |                           |
 | Felipegf1                         |                                           |
 | Gabriel Marcolino Rodrigues       | [#294](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/294) e [#137](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/137) |                                        |
 | Guilherme de Sá Gonçalves         | [#192](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/192) e [#442](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/442)                                              |
-| João Barreto                      |                                           |
+| João Barreto                      | [#218](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/218) |
 | Lucas Felipe Soares         |[#408](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/408) e [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194)     |
 | Lucas Spinosa                     | [#278](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/278) e [#251](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/251)  |
 | Mateus de Almeida                 | [#216](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/216#resumo), [#443](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/443) e [#445](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/445)         |
@@ -62,9 +62,9 @@
 - **Relatos:** Fiz as issues pareando com o Guilherme de Sá. Fizemos uma correção na issue 442 da sprint passada, com o feedback do João, arrumamos um espaçamento em branco desnecessário abaixo dos gráficos na aba de Análise. Também estou com issue 444 sobre corrigir o texto da data de fatura onde já comecei a tentar resolver, mas estou com alguns problemas no momento, porém vai ser meu foco na próxima sprint juntamente com a realização de testes
 
 ### Artur Rodrigues
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:** 
-- **Relatos:** 
+- **Tarefas concluídas:** (**Parcialmente**) [#218](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/218) 
+- **Dificuldades encontradas:** Autorização durante a realização do teste da funcionalidade.
+- **Relatos:** Foi uma sprint cansativa onde surgiram vários problemas grandes a partir de um problema menor. Foi difícil concluir a issue justamente por falta de conhecimento avançado sobre as autorizações e requisições do projeto. Tive problemas com o teste.
 
 ### Beatriz Vieira Nascimento
 - **Tarefas concluídas:** [#387](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/387)
@@ -97,9 +97,9 @@
 - **Relatos:** Uma vez encontradas as poucas ocorrências, apenas conversei com o Rodrigo e o João sobre como era pra ser formatado, pois já havia duas fórmulas que cuidavam disso: Uma com "." e duas casas decimais, e outra, sem as casas decimais. Uma vez respondida, fiz as alterações junto do meu par, Artur Jackson. Além disso foi feito uma correção na issue da sprint passada, com o feedback do João, arrumamos um espaçamento em branco desnecessário abaixo dos gráficos na aba de Análise. Também comecei a estudar mais as estruturas dos testes no backend, área que ainda não tinha explorado, porém vai ser meu foco na próxima sprint, ligado de forma geral a issue [#219](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/219)
 
 ### João Barreto
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:** 
-- **Relatos:** 
+- **Tarefas concluídas:** (**Parcialmente**) [#218](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/218) 
+- **Dificuldades encontradas:** Autorização durante a realização do teste da funcionalidade.
+- **Relatos:** O código precisava retornar erros espcíficos na hora da criação de um contrato. Dessa forma, a resolução dessa parte no backend foi consideravelmente fácil, após o entendimento da estrutura do projeto. No entanto, na criação dos testes ocorreram vários erros e o principal deles foi o de autenticação, o que gerou grande dificuldade e a não conclusão da issue.
 
 ### Lucas Felipe Soares
 - **Tarefas concluídas:** [#408](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/408) e [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194)  
