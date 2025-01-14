@@ -44,7 +44,7 @@
 | Mateus de Almeida                 |                          |
 | Pedro Henrique Rodrigues de Carvalho |                       |
 | Silas Souza                       |                          |
-| Chaydson Ferreira                 |                          |
+| Chaydson Ferreira                 | [#221](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/221) e [#222](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/222)                         |
 
 ## Participação dos Membros da Equipe durante a Sprint 3
 
@@ -69,9 +69,9 @@
 - **Relatos:** 
 
 ### Chaydson Ferreira
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:** 
-- **Relatos:** 
+- **Tarefas concluídas:** Configuração e implementação do jest para informar a taxa de cobertura de testes em relação a todo o projeto e um relatório, bem como o aumento da cobertura de testes do frontend, com foco nos arquivos app.ts, person.ts, recommendation.ts (pasta types) e validation-cnpj.ts
+- **Dificuldades encontradas:** Identificação de dependências não bem mapeadas em alguns arquivos, como validation-cnpj.ts, o que exigiu ajustes no código para torná-lo testável.
+- **Relatos:** O aumento da cobertura de testes trouxe uma maior confiança no código e ajudou a identificar melhorias necessárias nas implementações existentes
 
 ### Delziron Braz
 - **Tarefas concluídas:** 
