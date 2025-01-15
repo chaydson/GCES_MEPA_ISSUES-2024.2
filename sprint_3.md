@@ -33,7 +33,7 @@
 | Ana Beatriz Massuh                |                          |
 | Artur Jackson                     |                          |
 | Artur Rodrigues                   |                          |
-| Beatriz Nascimento                |                          |
+| Beatriz Nascimento                | [#451](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/451)                         |
 | Delziron Braz                     |                          |
 | Felipegf1                         |                          |
 | Gabriel Marcolino Rodrigues       |                          |
@@ -64,9 +64,9 @@
 - **Relatos:** 
 
 ### Beatriz Nascimento
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:** 
-- **Relatos:** 
+- **Tarefas concluídas: [#451](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/451)** 
+- **Dificuldades encontradas: Nenhuma** 
+- **Relatos: A issue consistia em resolver esse bug: No formulário de Adicionar Unidade Consumidora, no campo de "Início de Vigência", ao tentar inserir uma data manualmente, o input de data não permite a inserção do ano. Em geral foi uma issue tranquila de ser feita.** 
 
 ### Chaydson Ferreira
 - **Tarefas concluídas:** [#221](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/221) e [#222](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/222) Configuração e implementação do jest para informar a taxa de cobertura de testes em relação a todo o projeto e um relatório, bem como o aumento da cobertura de testes do frontend, com foco nos arquivos app.ts, person.ts, recommendation.ts (pasta types) e validation-cnpj.ts
