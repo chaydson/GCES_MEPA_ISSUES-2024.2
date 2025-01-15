@@ -40,7 +40,7 @@
 | Guilherme de Sá Gonçalves         |                          |
 | João Barreto                      |                          |
 | Lucas Felipe Soares               | [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194) e [#195](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/195)                         |
-| Lucas Spinosa                     |                          |
+| Lucas Spinosa                     | [#251](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/251) e [#180](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/180)       |
 | Mateus de Almeida                 |                          |
 | Pedro Henrique Rodrigues de Carvalho |                       |
 | Silas Souza                       |                          |
@@ -104,9 +104,9 @@
 - **Relatos:** A issue [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-endosergia-api/-/issues/194) segui fazendo pareamento com o [Delziron Braz](https://gitlab.com/DelzironBraz).
 
 ### Lucas Spinosa
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:** 
-- **Relatos:** 
+- **Tarefas concluídas:** [#251](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/251)
+- **Dificuldades encontradas:** Necessidade de alterações no Backend 
+- **Relatos:** Consegui realizar a issue [#251](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/251) sem muitas dificuldades. Entretanto a issue [#180](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/180) vai envolver a criação de novos endpoints para o frontend validar os campos. Não sei como fazer isso no backend do projeto, e portanto, precisarei fazer em dupla com alguém que tenha conhecimento nisso.
 
 ### Mateus de Almeida
 - **Tarefas concluídas:** 
