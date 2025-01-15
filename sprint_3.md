@@ -35,7 +35,7 @@
 | Artur Rodrigues                   |                          |
 | Beatriz Nascimento                | [#451](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/451)                         |
 | Delziron Braz                     |                          |
-| Felipegf1                         |                          |
+| Felipe Guimaraes                  | [#294](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/294)                         |
 | Gabriel Marcolino Rodrigues       |                          |
 | Guilherme de Sá Gonçalves         | [#222](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/222)                         |
 | João Barreto                      |                          |
