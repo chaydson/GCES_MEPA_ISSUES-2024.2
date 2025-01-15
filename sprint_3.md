@@ -56,7 +56,7 @@
 ### Artur Jackson
 - **Tarefas concluídas:** [#222](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/222)
 - **Dificuldades encontradas:** 
-- **Relatos:** Contribuí para o aumento na cobertura de testes no frontend com a realização de testes nos componenetes Header e FormFieldError na issue [#222](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/222). Além disso, também estava trabalhando na issue [#444]([https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/222](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/444)), remanescente da última sprint. Após terminar, antes de subir as alterações, percebi que com as novas atualizações vindas do upstream, fizeram com que não fosse mais possível selecionar outra data na fatura. Tornando a issue obsoleta.
+- **Relatos:** Contribuí para o aumento na cobertura de testes no frontend com a realização de testes nos componenetes Header e FormFieldError na issue [#222](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/222). Além disso, também estava trabalhando na issue [#444](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/444), remanescente da última sprint. Após terminar, antes de subir as alterações, percebi que com as novas atualizações vindas do upstream, fizeram com que não fosse mais possível selecionar outra data na fatura. Tornando a issue obsoleta.
 
 ### Artur Rodrigues
 - **Tarefas concluídas:** 
