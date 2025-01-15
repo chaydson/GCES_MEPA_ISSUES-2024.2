@@ -23,7 +23,7 @@
 | Pedro Henrique Rodrigues de Carvalho | @PedroHenrique2077 |
 | Silas Souza                       | @Silas-souza        |
 | Chaydson Ferreira                 | @chaydson           |
-| felipegf1                         | @felipegf1          |
+| Felipe Guimaraes                        | @felipegf1          |
 
 
 # Issues por Membro
@@ -78,10 +78,10 @@
 - **Dificuldades encontradas:** 
 - **Relatos:** 
 
-### Felipegf1
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:** 
-- **Relatos:** 
+### Felipe Guimaraes 
+- **Tarefas concluídas:** [#294](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/294)
+- **Dificuldades encontradas:** Apenas o tempo de estudo para resolver o problema
+- **Relatos:** Nessa Sprint por falta de tempo formei um par com o gabriel marcolino que foi quem me ajudou com o que precisei para o desenvolvimento da Issue e conseguimos concluir os ajustes
 
 ### Gabriel Marcolino Rodrigues
 - **Tarefas concluídas:** 
