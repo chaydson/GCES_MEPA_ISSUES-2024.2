@@ -37,7 +37,7 @@
 | Delziron Braz                     |                          |
 | Felipegf1                         |                          |
 | Gabriel Marcolino Rodrigues       |                          |
-| Guilherme de Sá Gonçalves         |                          |
+| Guilherme de Sá Gonçalves         | [#222](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/222)                         |
 | João Barreto                      |                          |
 | Lucas Felipe Soares               | [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194) e [#195](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/195)                         |
 | Lucas Spinosa                     | [#251](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/251) e [#180](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/180)       |
@@ -64,9 +64,9 @@
 - **Relatos:** 
 
 ### Beatriz Nascimento
-- **Tarefas concluídas: [#451](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/451)** 
-- **Dificuldades encontradas: Nenhuma** 
-- **Relatos: A issue consistia em resolver esse bug: No formulário de Adicionar Unidade Consumidora, no campo de "Início de Vigência", ao tentar inserir uma data manualmente, o input de data não permite a inserção do ano. Em geral foi uma issue tranquila de ser feita.** 
+- **Tarefas concluídas:** [#451](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/451) 
+- **Dificuldades encontradas:** Nenhuma
+- **Relatos:** A issue consistia em resolver esse bug: No formulário de Adicionar Unidade Consumidora, no campo de "Início de Vigência", ao tentar inserir uma data manualmente, o input de data não permite a inserção do ano. Em geral foi uma issue tranquila de ser feita. 
 
 ### Chaydson Ferreira
 - **Tarefas concluídas:** [#221](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/221) e [#222](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/222) Configuração e implementação do jest para informar a taxa de cobertura de testes em relação a todo o projeto e um relatório, bem como o aumento da cobertura de testes do frontend, com foco nos arquivos app.ts, person.ts, recommendation.ts (pasta types) e validation-cnpj.ts
@@ -89,9 +89,9 @@
 - **Relatos:** 
 
 ### Guilherme de Sá Gonçalves
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:** 
-- **Relatos:** 
+- **Tarefas concluídas:** [#222](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/222)
+- **Dificuldades encontradas:** Não tive difuculdades em fazer os testes
+- **Relatos:** Nessa sprint, me dediquei a aumentar a cobertura de testes no frontend, juntamente com outros colegas. Finalizei os testes dos 4 últimos arquivos em "utils", alcançando 100% de cobertura nessa classe.
 
 ### João Barreto
 - **Tarefas concluídas:** 
