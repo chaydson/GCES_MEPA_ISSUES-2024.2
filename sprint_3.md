@@ -30,11 +30,11 @@
 
 | Nome                              | Issues                   |
 |-----------------------------------|--------------------------|
-| Ana Beatriz Massuh                |                          |
+| Ana Beatriz Massuh                | [#360](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/merge_requests/342), [#220](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/220) e [#151](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/151)                         |
 | Artur Jackson                     | [#222](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/222)                         |
 | Artur Rodrigues                   |                          |
 | Beatriz Nascimento                | [#451](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/451)                         |
-| Delziron Braz                     |                          |
+| Delziron Braz                     | [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194)                         |
 | Felipe Guimaraes                  | [#294](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/294)                         |
 | Gabriel Marcolino Rodrigues       | [#294](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/294) e [#432](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/432)                        |
 | Guilherme de Sá Gonçalves         | [#222](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/222)                         |
@@ -49,9 +49,9 @@
 ## Participação dos Membros da Equipe durante a Sprint 3
 
 ### Ana Beatriz Massuh
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:** 
-- **Relatos:** 
+- **Tarefas concluídas:** [#360](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/merge_requests/342), [#220](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/220)
+- **Dificuldades encontradas:** Tive dificuldades em visualizar o erro de distribuidora duplicada que foi relatado na issue [#151](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/151).
+- **Relatos:** Pela terceira vez acredito que finalizei a issue [#360](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/merge_requests/342), [#220](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/220), nessa sprint adicionei a demanda de geração agora no formulário de edição de unidade consumidora. Comecei a solucionar a issue [#220](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/220) para a refatoração da configuração de e-mail para usar o backend de e-mail nativo do Django,nela atualizei o `settings.py` para utilizar o sistema de e-mail nativo do Django, criei configurações específicas para e-mails no ambiente de desenvolvimento (`settings/development.py`), mas ainda falta adicionar o Mailpit ao `docker-compose.yml` para facilitar o debug em ambiente de desenvolvimento, refatorar a função `send_email` para usar `django.core.mail`e criar os testes para certificar se tudo está correto.
 
 ### Artur Jackson
 - **Tarefas concluídas:** [#222](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/222)
@@ -74,9 +74,9 @@
 - **Relatos:** O aumento da cobertura de testes trouxe uma maior confiança no código e ajudou a identificar melhorias necessárias nas implementações existentes
 
 ### Delziron Braz
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:** 
-- **Relatos:** 
+- **Tarefas concluídas:** [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194)
+- **Dificuldades encontradas:** Na issue [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194) a maior dificuldade foi resolver problemas que o pipeline encontrou, entretando, foi consultado um monitor para tal problema, e será marcado um encontro para melhor avaliação do pipeline, tendo em vista que o teste passa e aumenta a cobertura
+- **Relatos:** Na issue [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194) trabalhei em conjunto com o Lucas Felipe, onde desenvolvemos mais testes para aumentar a cobertura do mepa-api. Tivemos sucesso com êxito no aumento da cobertura dos testes, como também, na diminuição de erros encontrados nos testes.
 
 ### Felipe Guimaraes 
 - **Tarefas concluídas:** [#294](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/294)
