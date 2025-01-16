@@ -41,7 +41,7 @@
 | João Barreto                      |  [#400](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/400#note_2292665400) e [#260](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/260#note_2292665506)                       |
 | Lucas Felipe Soares               | [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194) e [#195](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/195)                         |
 | Lucas Spinosa                     | [#251](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/251) e [#180](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/180)       |
-| Mateus de Almeida                 |                          |
+| Mateus de Almeida                 | [#222](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/222)                         |
 | Pedro Henrique Rodrigues de Carvalho | [#221](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/221) e [#222](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/222)                      |
 | Silas Souza                       |                          |
 | Chaydson Ferreira                 | [#221](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/221) e [#222](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/222)                         |
@@ -109,9 +109,9 @@
 - **Relatos:** Consegui realizar a issue [#251](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/251) sem muitas dificuldades. Entretanto a issue [#180](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/180) vai envolver a criação de novos endpoints para o frontend validar os campos. Não sei como fazer isso no backend do projeto, e portanto, precisarei fazer em dupla com alguém que tenha conhecimento nisso.
 
 ### Mateus de Almeida
-- **Tarefas concluídas:** 
+- **Tarefas concluídas:** [#222](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/222)
 - **Dificuldades encontradas:** 
-- **Relatos:** 
+- **Relatos:** Trabalhei para aumentar a cobertura de testes do frontend, fazendo testes para os componentes graph e contract, foi verificado o comportamento das interfaces em situações com dados válidos e inválidos, para que seja assegurado o correto funcionamento.
 
 ### Pedro Henrique Rodrigues de Carvalho
 - **Tarefas concluídas:** [#221](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/221) e [#222](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/222). Implementação e configuração do Jest para gerar relatórios de cobertura de testes em todo o projeto e aumento da cobertura de testes no frontend, com foco nos arquivos `app.ts`, `person.ts`, `recommendation.ts` e `validation-cnpj.ts`.
