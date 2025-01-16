@@ -109,7 +109,7 @@
 - **Relatos:** Consegui realizar a issue [#251](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/251) sem muitas dificuldades. Entretanto a issue [#180](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/180) vai envolver a criação de novos endpoints para o frontend validar os campos. Não sei como fazer isso no backend do projeto, e portanto, precisarei fazer em dupla com alguém que tenha conhecimento nisso.
 
 ### Mateus de Almeida
-- **Tarefas concluídas:** [#222](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/222)
+- **Tarefas concluídas:** [#222](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/222) ampliação da cobertura de teste em `contract.ts` e `graph.ts`.
 - **Dificuldades encontradas:** 
 - **Relatos:** Trabalhei para aumentar a cobertura de testes do frontend, fazendo testes para os componentes graph e contract, foi verificado o comportamento das interfaces em situações com dados válidos e inválidos, para que seja assegurado o correto funcionamento.
 
