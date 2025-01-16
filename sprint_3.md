@@ -32,13 +32,13 @@
 |-----------------------------------|--------------------------|
 | Ana Beatriz Massuh                | [#360](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/merge_requests/342), [#220](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/220) e [#151](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/151)                         |
 | Artur Jackson                     | [#222](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/222)                         |
-| Artur Rodrigues                   |                          |
+| Artur Rodrigues                   | [#400](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/400#note_2292665400) e [#260](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/260#note_2292665506) (Parcialmente)                         |
 | Beatriz Nascimento                | [#451](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/451)                         |
 | Delziron Braz                     | [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194)                         |
 | Felipe Guimaraes                  | [#294](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/294)                         |
 | Gabriel Marcolino Rodrigues       | [#294](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/294) e [#432](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/432)                        |
 | Guilherme de Sá Gonçalves         | [#222](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/222)                         |
-| João Barreto                      |                          |
+| João Barreto                      |  [#400](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/400#note_2292665400) e [#260](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/260#note_2292665506) (Parcialmente)                        |
 | Lucas Felipe Soares               | [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194) e [#195](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/195)                         |
 | Lucas Spinosa                     | [#251](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/251) e [#180](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/180)       |
 | Mateus de Almeida                 |                          |
@@ -59,9 +59,9 @@
 - **Relatos:** Contribuí para o aumento na cobertura de testes no frontend com a realização de testes nos componenetes Header e FormFieldError na issue [#222](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/222). Além disso, também estava trabalhando na issue [#444](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/444), remanescente da última sprint. Após terminar, antes de subir as alterações, percebi que com as novas atualizações vindas do upstream, fizeram com que não fosse mais possível selecionar outra data na fatura. Tornando a issue obsoleta.
 
 ### Artur Rodrigues
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:** 
-- **Relatos:** 
+- **Tarefas concluídas:** [#400](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/400#note_2292665400) e [#260](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/260#note_2292665506) (Parcialmente)
+- **Dificuldades encontradas:** Achar os locais específicos para mudanças dos cards.
+- **Relatos:** Peguei duas issues para resolver neste sprint. A primeira está relacionada com flashes que apareciam na barra de rolagem do navegador, que foi tranquilamente resolvida. A segunda issue consiste na alteração dos tamanhos para preencher os espaços vazios na tela quando a resolução da tela é maior, infelizmente ainda não foi finalizada, mas está encaminhada. 
 
 ### Beatriz Nascimento
 - **Tarefas concluídas:** [#451](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/451) 
@@ -94,9 +94,9 @@
 - **Relatos:** Nessa sprint, me dediquei a aumentar a cobertura de testes no frontend, juntamente com outros colegas. Finalizei os testes dos 4 últimos arquivos em "utils", alcançando 100% de cobertura nessa classe.
 
 ### João Barreto
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:** 
-- **Relatos:** 
+- **Tarefas concluídas:** [#400](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/400#note_2292665400) e [#260](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/260#note_2292665506) (Parcialmente)
+- **Dificuldades encontradas:** Achar os locais específicos para mudanças dos cards.
+- **Relatos:** Peguei duas issues para resolver neste sprint. A primeira está relacionada com flashes que apareciam na barra de rolagem do navegador, que foi tranquilamente resolvida. A segunda issue consiste na alteração dos tamanhos para preencher os espaços vazios na tela quando a resolução da tela é maior, infelizmente ainda não foi finalizada, mas está encaminhada. 
 
 ### Lucas Felipe Soares
 - **Tarefas concluídas:** [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194) e [#195](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/195).  
