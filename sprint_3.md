@@ -36,7 +36,7 @@
 | Beatriz Nascimento                | [#451](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/451)                         |
 | Delziron Braz                     |                          |
 | Felipe Guimaraes                  | [#294](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/294)                         |
-| Gabriel Marcolino Rodrigues       |                          |
+| Gabriel Marcolino Rodrigues       | [#294](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/294) e [#432](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/432)                        |
 | Guilherme de Sá Gonçalves         | [#222](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/222)                         |
 | João Barreto                      |                          |
 | Lucas Felipe Soares               | [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194) e [#195](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/195)                         |
@@ -84,9 +84,9 @@
 - **Relatos:** Nessa Sprint por falta de tempo formei um par com o gabriel marcolino que foi quem me ajudou com o que precisei para o desenvolvimento da Issue e conseguimos concluir os ajustes
 
 ### Gabriel Marcolino Rodrigues
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:** 
-- **Relatos:** 
+- **Tarefas concluídas:** [#294](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/294) e [#432](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues 432)
+- **Dificuldades encontradas:** Usar o mesmo layout(código) que a tabela de faturas na tela de UC usava e a unificação das duas para deixa em um componente parametrizado.
+- **Relatos:** Nessa sprint fiz o ajuste solicitado no merge que fiz na primeira spring na issue 432 e dei continuidade na issue 294, a qual estava atuando na sprint passada. Dentre os itens solicitados na issue 294 não consegui fazer o de usar o mesmo layout(código) que a tabela de faturas na tela de UC, pois ao tentar fazer isso acabava quebrando toda a formatação já feita na tabela, então acabou que ficou de fora esse ajuste assim como a unificação das duas tabelas que dependia da outra tarefa mencionada. Além disso, fiz pareamento com o Felipegf1 na issue 294.
 
 ### Guilherme de Sá Gonçalves
 - **Tarefas concluídas:** [#222](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/222)
