@@ -44,7 +44,7 @@
 | Mateus de Almeida                 |                       |
 | Pedro Henrique Rodrigues de Carvalho |                     |
 | Silas Souza                       |                          |
-| Chaydson Ferreira                 |                        |
+| Chaydson Ferreira                 |[#452](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/452)                        |
 
 ## Participação dos Membros da Equipe durante a Sprint 3
 
@@ -68,9 +68,9 @@
 - **Dificuldades encontradas:**
 - **Relatos:** 
 ### Chaydson Ferreira
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:** 
-- **Relatos:** 
+- **Tarefas concluídas:** Implementação de testes unitários para os componentes AverageConsumptionPlot, BaseCostComparisonCard, BaseCostComparisonPlot, CurrentBaseCostPlot, DetailedAnalysisHeader, MeasuredConsumptionPlot, MeasuredDemandPlot, RecommendationCard e Revisão dos MRs da Sprint 3.
+- **Dificuldades encontradas:** Ajustes nas configurações do ambiente de testes foram necessários para garantir a compatibilidade total com a versão mais recente do framework utilizado.
+- **Relatos:** A abordagem de escrever os testes de forma modular permitiu identificar rapidamente qualquer discrepância ou falha durante a execução dos testes.
 
 ### Delziron Braz
 - **Tarefas concluídas:** 
