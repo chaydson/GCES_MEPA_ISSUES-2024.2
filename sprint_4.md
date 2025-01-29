@@ -31,7 +31,7 @@
 | Nome                              | Issues                   |
 |-----------------------------------|--------------------------|
 | Ana Beatriz Massuh                |      |
-| Artur Jackson                     |              |
+| Artur Jackson                     | [#444](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/444)             |
 | Artur Rodrigues                   |                   |
 | Beatriz Nascimento                |                          |
 | Delziron Braz                     |                       |
@@ -54,9 +54,9 @@
 - **Relatos:** 
 
 ### Artur Jackson
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:** 
-- **Relatos:** 
+- **Tarefas concluídas:** [#444](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/444) 
+- **Dificuldades encontradas:** Achar o commit onde foi removido o datePicker da edição da fatura e corrigir.
+- **Relatos:** Nessa sprint eu finalizei a issue 444, inicialmente era somente para corrigir a cor de um mês desabilitado para onPrimary para ficar mais visível. Só que com as alterações vindas da upstream, percebi que o dropdown de seleção da data do mês de referencia foi removida tanto da página de edição quanto lançamento da fatura. Após fazer alguns comentários na issue me pediram para  recolocar o datePicker novamente somente na página de edição da fatura. Então recoloquei novamente na página de edição e corrigi o que issue queria inicialmente, que era a cor para onPrimary.
 
 ### Artur Rodrigues
 - **Tarefas concluídas:** 
