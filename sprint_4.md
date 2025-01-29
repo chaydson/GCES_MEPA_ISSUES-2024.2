@@ -94,8 +94,8 @@
 
 ### Lucas Felipe Soares
 - **Tarefas concluídas:** [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194) e [#408](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/408).  
-- **Dificuldades encontradas:** Não sabia como resolver os problemas da issue [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194) e dependi bastante do suporte do Flávio
-- **Relatos:** A issue [#408](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/408), tive de fazer algumas correções passadas pela Adne no MR da sprint 1. Já os problemas da issue [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194) eu não sabia como resolver e precisei consultar bastante o Flávio para me ajudar a resolver o problema de pipeline que estávamos tendo.
+- **Dificuldades encontradas:** Não sabia como resolver os problemas de pipeline da issue [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194) e dependi bastante do suporte do Flávio para lidar. Estive com um pouco menos de tempo por problemas pessoais e outras disciplinas então foi uma sprint mais pesada que as demais. 
+- **Relatos:** A issue [#408](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/408), tive de fazer algumas correções passadas pela Adne no MR da sprint 1. Já os problemas de pipeline da issue [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194) consegui resolver e aproveitei para aumentar mais a cobertura de testes, sobretudo do módulo de universidades que havia trabalhado menos na sprint passada.
 
 ### Lucas Spinosa
 - **Tarefas concluídas:** 
