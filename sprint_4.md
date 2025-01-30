@@ -43,7 +43,7 @@
 | Lucas Spinosa                     |       |
 | Mateus de Almeida                 |                       |
 | Pedro Henrique Rodrigues de Carvalho |                     |
-| Silas Souza                       |                          |
+| Silas Souza                       | [#447](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/447) e [#448](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/447)                   |
 | Chaydson Ferreira                 |[#452](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/452)                        |
 
 ## Participação dos Membros da Equipe durante a Sprint 3
@@ -122,4 +122,4 @@ Por fim, sobre a correção do menu principal, o problema estava relacionado à 
 ### Silas Souza
 - **Tarefas concluídas:** 
 - **Dificuldades encontradas:** 
-- **Relatos:** 
+- **Relatos:** Nessa sprint pareei com Gabriel Marcolino na issue [447](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/447), e estamos esperando resposta do rodrigo para finalizar esta issue, e além disso também trabalhei na issue [448](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/448)., foi implementado a função de excluir UC sem faturas no front, porém falta a implementação no back-end
