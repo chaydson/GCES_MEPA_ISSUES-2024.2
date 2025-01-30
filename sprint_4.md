@@ -80,7 +80,7 @@
 ### Felipe Guimaraes 
 - **Tarefas concluídas:** 
 - **Dificuldades encontradas:** 
-- **Relatos:** 
+- **Relatos:** Devido a questões pessoais e de tempo nao consegui chegar a finalizar uma issue nessa sprint e foquei em estudar e concluir etapas do trabalho individual 
 
 ### Gabriel Marcolino Rodrigues
 - **Tarefas concluídas:** 
