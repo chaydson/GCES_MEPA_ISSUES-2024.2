@@ -32,13 +32,13 @@
 |-----------------------------------|--------------------------|
 | Ana Beatriz Massuh                | [#220](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/220) e teste unitário     |
 | Artur Jackson                     | [#444](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/444)             |
-| Artur Rodrigues                   |                   |
+| Artur Rodrigues                   | [#151](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/151) e [#216](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/216)                  |
 | Beatriz Nascimento                |  Correções na issue [#387](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/387) da sprint 2  |
 | Delziron Braz                     | [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194) e .[419](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/419)                      |
 | Felipe Guimaraes                  |                          |
 | Gabriel Marcolino Rodrigues       | [#447](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/447)                       |
 | Guilherme de Sá Gonçalves         | [#222](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/222)                     |
-| João Barreto                      |                         |
+| João Barreto                      | [#151](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/151) e [#216](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/216)                       |
 | Lucas Felipe Soares               | [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194) e [#408](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/408)                         |
 | Lucas Spinosa                     |       |
 | Mateus de Almeida                 |                       |
