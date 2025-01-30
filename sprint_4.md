@@ -37,7 +37,7 @@
 | Delziron Braz                     |                       |
 | Felipe Guimaraes                  |                          |
 | Gabriel Marcolino Rodrigues       |                        |
-| Guilherme de Sá Gonçalves         |                      |
+| Guilherme de Sá Gonçalves         | [#222](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/222)                     |
 | João Barreto                      |                         |
 | Lucas Felipe Soares               | [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194) e [#408](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/408)                         |
 | Lucas Spinosa                     |       |
@@ -87,7 +87,9 @@
 - **Dificuldades encontradas:** 
 
 ### Guilherme de Sá Gonçalves
-- **Tarefas concluídas:** 
+- **Tarefas concluídas:** [#222](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/222)
+- **Dificuldades encontradas:** Foi minha primeira vez fazendo testes de componentes no projeto, então demorei um pouco para aprender, e fui vendo os exemplo feitos anteriormente.
+- **Relatos:** Basicamente fiz mais testes nessa sprint, incrementei um arquivo de testes de validação, o form-validation.test.js, e adicionei testes para mais dois componentes, Footer e FilterButtons. Também ajudei no mapeamento das alterações necessárias ainda do MR da Sprint 2, conseguindo fazer uma alterçaõ mais simples no que dizia respeito a issue [#427](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/427).
 
 ### João Barreto
 - **Tarefas concluídas:**
