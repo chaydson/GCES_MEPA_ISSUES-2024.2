@@ -108,7 +108,7 @@ Por fim, sobre a correção do menu principal, o problema estava relacionado à 
 ### Lucas Spinosa
 - **Tarefas concluídas:** 
 - **Dificuldades encontradas:** 
-- **Relatos:** 
+- **Relatos:** Esperei o surgimento de issues no frontend do projeto, mas não aconteceu. Não peguei issues essa sprint, mas vou pegar issue de backend na próxima sprint caso não surjam issues de frontend.
 ### Mateus de Almeida
 - **Tarefas concluídas:** 
 - **Dificuldades encontradas:** 
