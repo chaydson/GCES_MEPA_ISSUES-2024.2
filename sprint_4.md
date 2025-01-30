@@ -30,7 +30,7 @@
 
 | Nome                              | Issues                   |
 |-----------------------------------|--------------------------|
-| Ana Beatriz Massuh                |      |
+| Ana Beatriz Massuh                | [#220](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/220) e teste unitário     |
 | Artur Jackson                     | [#444](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/444)             |
 | Artur Rodrigues                   |                   |
 | Beatriz Nascimento                |  Correções na issue [#387](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/387) da sprint 2  |
@@ -49,9 +49,11 @@
 ## Participação dos Membros da Equipe durante a Sprint 3
 
 ### Ana Beatriz Massuh
-- **Tarefas concluídas:** 
+- **Tarefas concluídas:** [#220](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/220) e testes unitários para a função getSubgroupsText
 - **Dificuldades encontradas:** 
-- **Relatos:** 
+- **Relatos:** Desenvolvi testes utilizando Jest para validar se a função retorna a string corretamente formatada.
+Implementei esse teste para verificar o comportamento da função quando recebe um array incompleto, garantindo que um erro seja lançado. Além disso  refatorei o sistema de envio de emails da aplicação, substituindo a implementação baseada em smtplib por django.core.mail. Essa mudança visa melhorar a manutenibilidade do código, facilitar a configuração em diferentes ambientes e permitir a integração com o sistema de templates HTML do Django (Atualizei o settings.py para utilizar as configurações nativas do Django para envio de emails, garantindo que todas as credenciais sejam carregadas corretamente via variáveis de ambiente.Substituí o uso de smtplib pelo backend de email do Django, utilizando send_mail para simplificar o envio e permitir a renderização de emails em HTML.Ajustei o arquivo send_email.py para usar as novas configurações, removendo código desnecessário e melhorando a clareza da implementação.Configurei o Mailpit como servidor SMTP no ambiente de desenvolvimento, permitindo a captura e visualização de emails de teste.).
+
 
 ### Artur Jackson
 - **Tarefas concluídas:** [#444](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/444) 
