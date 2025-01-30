@@ -32,13 +32,13 @@
 |-----------------------------------|--------------------------|
 | Ana Beatriz Massuh                | [#220](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/220) e teste unitário     |
 | Artur Jackson                     | [#444](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/444)             |
-| Artur Rodrigues                   | [#151](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/151) e [#216](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/216)                  |
+| Artur Rodrigues                   | [#151](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/151) e [#260](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/260)                  |
 | Beatriz Nascimento                |  Correções na issue [#387](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/387) da sprint 2  |
 | Delziron Braz                     | [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194) e .[419](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/419)                      |
 | Felipe Guimaraes                  |                          |
 | Gabriel Marcolino Rodrigues       | [#447](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/447)                       |
 | Guilherme de Sá Gonçalves         | [#222](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/222)                     |
-| João Barreto                      | [#151](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/151) e [#216](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/216)                       |
+| João Barreto                      | [#151](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/151) e [#260](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/260)                       |
 | Lucas Felipe Soares               | [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194) e [#408](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/408)                         |
 | Lucas Spinosa                     |       |
 | Mateus de Almeida                 |                       |
@@ -61,7 +61,7 @@ Implementei esse teste para verificar o comportamento da função quando recebe 
 - **Relatos:** Nessa sprint eu finalizei a issue 444. Já tinha pego essa issue em sprints anteriores, mas estava com problemas. Inicialmente era somente para corrigir a cor de um mês desabilitado selecionado na data da fatura para onPrimary, para ficar mais visível. Só que com as alterações vindas da upstream, percebi que o dropdown de seleção da data do mês de referencia foi removido tanto da página de edição quanto lançamento da fatura. Após fazer alguns comentários na issue me pediram para recolocar o datePicker novamente somente na página de edição da fatura. Então recoloquei novamente na página de edição e corrigi o que issue queria inicialmente, que era a cor para onPrimary.
 
 ### Artur Rodrigues
-- **Tarefas concluídas:** [#151](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/151) e [#216](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/216)
+- **Tarefas concluídas:** [#151](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/151) e [#260](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/260)
 - **Dificuldades encontradas:** Enfrentei desafios com a validação de CNPJ e o ajuste da responsividade com zoom na interface. Para a validação, foi necessário um controle mais refinado para garantir que o mesmo CNPJ fosse cadastrado em diferentes instituições, além de gerar exceções específicas para cada caso, sem comprometer a integridade dos dados. Já no zoom, o desafio foi corrigir o desajuste dos elementos na interface.
 - **Relatos:** Tive que aprender como adaptar a lógica de validação de CNPJ para que funcionasse corretamente em diferentes contextos. Também precisei entender melhor como a estrutura do layout afetava a responsividade e como garantir que a interface se comportasse bem em diferentes resoluções. Esse processo me ajudou a melhorar meus conhecimentos sobre exceções e boas práticas de CSS. 
 
@@ -98,7 +98,7 @@ Por fim, sobre a correção do menu principal, o problema estava relacionado à 
 - **Relatos:** Basicamente fiz mais testes nessa sprint, incrementei um arquivo de testes de validação, o form-validation.test.js, e adicionei testes para mais dois componentes, Footer e FilterButtons. Também ajudei no mapeamento das alterações necessárias ainda do MR da Sprint 2, conseguindo fazer uma alterçaõ mais simples no que dizia respeito a issue [#427](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/427).
 
 ### João Barreto
-- **Tarefas concluídas:** [#151](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/151) e [#216](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/216)
+- **Tarefas concluídas:** [#151](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/151) e [#260](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/260)
 - **Dificuldades encontradas:** Enfrentei desafios com a validação de CNPJ e o ajuste da responsividade com zoom na interface. Para a validação, foi necessário um controle mais refinado para garantir que o mesmo CNPJ fosse cadastrado em diferentes instituições, além de gerar exceções específicas para cada caso, sem comprometer a integridade dos dados. Já no zoom, o desafio foi corrigir o desajuste dos elementos na interface.
 - **Relatos:** Tive que aprender como adaptar a lógica de validação de CNPJ para que funcionasse corretamente em diferentes contextos. Também precisei entender melhor como a estrutura do layout afetava a responsividade e como garantir que a interface se comportasse bem em diferentes resoluções. Esse processo me ajudou a melhorar meus conhecimentos sobre exceções e boas práticas de CSS.
 
