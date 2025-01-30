@@ -33,7 +33,7 @@
 | Ana Beatriz Massuh                |      |
 | Artur Jackson                     | [#444](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/444)             |
 | Artur Rodrigues                   |                   |
-| Beatriz Nascimento                |                          |
+| Beatriz Nascimento                |  Correções na issue [#387](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/387) da sprint 2  |
 | Delziron Braz                     |                       |
 | Felipe Guimaraes                  |                          |
 | Gabriel Marcolino Rodrigues       |                        |
@@ -64,9 +64,9 @@
 - **Relatos:** 
 
 ### Beatriz Nascimento
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:**
-- **Relatos:** 
+- **Tarefas concluídas: Realizei mudanças solicitadas na issue 387 feita na sprint 2** 
+- **Relatos: Os ajustes foram esses: CurrentDate repetido no set, mudar para setOneDayAfterCurrentDate, retirar comentario em RenewContract e usar um Max entre os dois elementos, e não um OR, usando o OR com datas, sempre o primeiro elemento é o retornado, caso não seja undefined.**
+
 ### Chaydson Ferreira
 - **Tarefas concluídas:** Implementação de testes unitários para os componentes AverageConsumptionPlot, BaseCostComparisonCard, BaseCostComparisonPlot, CurrentBaseCostPlot, DetailedAnalysisHeader, MeasuredConsumptionPlot, MeasuredDemandPlot, RecommendationCard e Revisão dos MRs da Sprint 3.
 - **Dificuldades encontradas:** Ajustes nas configurações do ambiente de testes foram necessários para garantir a compatibilidade total com a versão mais recente do framework utilizado.
