@@ -36,7 +36,7 @@
 | Beatriz Nascimento                |  Correções na issue [#387](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/387) da sprint 2  |
 | Delziron Braz                     |                       |
 | Felipe Guimaraes                  |                          |
-| Gabriel Marcolino Rodrigues       |                        |
+| Gabriel Marcolino Rodrigues       | [#447](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/447)                       |
 | Guilherme de Sá Gonçalves         | [#222](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/222)                     |
 | João Barreto                      |                         |
 | Lucas Felipe Soares               | [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194) e [#408](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/408)                         |
@@ -84,7 +84,8 @@
 
 ### Gabriel Marcolino Rodrigues
 - **Tarefas concluídas:** 
-- **Dificuldades encontradas:** 
+- **Dificuldades encontradas:**
+- **Relatos:** Nessa sprint estava pareando com o Silas na issue [447](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/447), foi feito os ajustes solicitados nas telas de criar e editar unidade consumidora. Porém o ajuste na tela de renovar o contrato não foi feito pois surgiu uma dúvida a qual estou esperando o Rodrigo responder para fianlizar os ajustes solicitados.
 
 ### Guilherme de Sá Gonçalves
 - **Tarefas concluídas:** [#222](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/222)
