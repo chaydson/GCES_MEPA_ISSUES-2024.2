@@ -34,14 +34,14 @@
 | Artur Jackson                     | [#444](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/444)             |
 | Artur Rodrigues                   |                   |
 | Beatriz Nascimento                |  Correções na issue [#387](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/387) da sprint 2  |
-| Delziron Braz                     |                       |
+| Delziron Braz                     | [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194) e .[419](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/419)                      |
 | Felipe Guimaraes                  |                          |
 | Gabriel Marcolino Rodrigues       | [#447](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/447)                       |
 | Guilherme de Sá Gonçalves         | [#222](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/222)                     |
 | João Barreto                      |                         |
 | Lucas Felipe Soares               | [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194) e [#408](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/408)                         |
 | Lucas Spinosa                     |       |
-| Mateus de Almeida                 | [#445](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/445)                      |
+| Mateus de Almeida                 |                       |
 | Pedro Henrique Rodrigues de Carvalho |                     |
 | Silas Souza                       |                          |
 | Chaydson Ferreira                 |[#452](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/452)                        |
@@ -75,9 +75,12 @@ Implementei esse teste para verificar o comportamento da função quando recebe 
 - **Relatos:** A abordagem de escrever os testes de forma modular permitiu identificar rapidamente qualquer discrepância ou falha durante a execução dos testes.
 
 ### Delziron Braz
-- **Tarefas concluídas:** 
+- **Tarefas concluídas:**  [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194) e .[419](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/419)
 - **Dificuldades encontradas:** 
-- **Relatos:** 
+- **Relatos:** Desenvolvi testes unitários para aumentar a cobertura de testes no MEPA API, focando especificamente nos módulos user_type e tariff_utils. Além disso, corrigi a implementação da Sprint 2, que envolvia ajustes no menu principal.
+Os testes foram implementados com sucesso e passaram sem falhas. O maior desafio, mais uma vez, foi lidar com o lint no pipeline. No entanto, com o suporte dos monitores, conseguimos identificar e resolver o problema corretamente utilizando o Ruff.
+Vale destacar que os testes foram desenvolvidos em pareamento com Lucas Felipe, o que contribuiu significativamente para a qualidade do código.
+Por fim, sobre a correção do menu principal, o problema estava relacionado à necessidade de um rebase. Com o merge request, a alteração acabou sendo sobrescrita, mas a questão já foi corrigida.
 
 ### Felipe Guimaraes 
 - **Tarefas concluídas:** 
@@ -108,8 +111,8 @@ Implementei esse teste para verificar o comportamento da função quando recebe 
 - **Relatos:** 
 ### Mateus de Almeida
 - **Tarefas concluídas:** 
-- **Dificuldades encontradas:** Não sei se existe um endpoint para pesquisar distribuidoras pelo cnpj para fazer validações, por isso fiquei estacionado pensando em outra forma de implentar o pedido.
-- **Relatos:** Nessa sprint foquei em resolver uma pendência da sprint 2, na verdade eu só precisava implementar a validação no campo do cnpj quando o usuário estivesse editando uma distribuidora já existente, já que na criação de uma nova distribuidora eu já havia implementado essa validação e inclusive foi aceita no mr, então seria como uma nova issue relacionada a issue [#445](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/445), mas infelizmente ainda não consegui implementar o proposto.
+- **Dificuldades encontradas:** 
+- **Relatos:** 
 
 ### Pedro Henrique Rodrigues de Carvalho
 - **Tarefas concluídas:** 
