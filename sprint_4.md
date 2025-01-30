@@ -64,8 +64,8 @@
 - **Relatos:** 
 
 ### Beatriz Nascimento
-- **Tarefas concluídas: Realizei mudanças solicitadas na issue 387 feita na sprint 2** 
-- **Relatos: Os ajustes foram esses: CurrentDate repetido no set, mudar para setOneDayAfterCurrentDate, retirar comentario em RenewContract e usar um Max entre os dois elementos, e não um OR, usando o OR com datas, sempre o primeiro elemento é o retornado, caso não seja undefined.**
+- **Tarefas concluídas:**  Realizei mudanças solicitadas na issue 387 feita na sprint 2
+- **Relatos:**  Os ajustes foram esses: CurrentDate repetido no set, mudar para setOneDayAfterCurrentDate, retirar comentario em RenewContract e usar um Max entre os dois elementos, e não um OR, usando o OR com datas, sempre o primeiro elemento é o retornado, caso não seja undefined.
 
 ### Chaydson Ferreira
 - **Tarefas concluídas:** Implementação de testes unitários para os componentes AverageConsumptionPlot, BaseCostComparisonCard, BaseCostComparisonPlot, CurrentBaseCostPlot, DetailedAnalysisHeader, MeasuredConsumptionPlot, MeasuredDemandPlot, RecommendationCard e Revisão dos MRs da Sprint 3.
