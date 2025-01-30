@@ -42,7 +42,7 @@
 | Lucas Felipe Soares               | [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194) e [#408](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/408)                         |
 | Lucas Spinosa                     |       |
 | Mateus de Almeida                 |                       |
-| Pedro Henrique Rodrigues de Carvalho |                     |
+| Pedro Henrique Rodrigues de Carvalho |  [#452](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/452)                   |
 | Silas Souza                       | [#447](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/447) e [#448](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/447)                   |
 | Chaydson Ferreira                 |[#452](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/452)                        |
 
@@ -117,9 +117,9 @@ Por fim, sobre a correção do menu principal, o problema estava relacionado à 
 - **Relatos:** 
 
 ### Pedro Henrique Rodrigues de Carvalho
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:** 
-- **Relatos:** 
+- **Tarefas concluídas:** Desenvolvimento de testes unitários para os componentes AverageConsumptionPlot, BaseCostComparisonCard, BaseCostComparisonPlot, CurrentBaseCostPlot, DetailedAnalysisHeader, MeasuredConsumptionPlot, MeasuredDemandPlot, RecommendationCard e revisão dos MRs da Sprint 3.
+- **Dificuldades encontradas:** Foi preciso realizar ajustes nas configurações do ambiente de testes para assegurar total compatibilidade com a versão mais recente do framework adotado.
+- **Relatos:** A estratégia de modularizar os testes facilitou a detecção rápida de inconsistências ou falhas durante a execução.
 
 ### Silas Souza
 - **Tarefas concluídas:** 
