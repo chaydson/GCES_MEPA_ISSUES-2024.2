@@ -41,7 +41,7 @@
 | João Barreto                      | [#151](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/151) e [#260](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/260)                       |
 | Lucas Felipe Soares               | [#194](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/194) e [#408](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/408)                         |
 | Lucas Spinosa                     |       |
-| Mateus de Almeida                 |                       |
+| Mateus de Almeida                 | [#445](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/445)                      |
 | Pedro Henrique Rodrigues de Carvalho |  [#452](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/452)                   |
 | Silas Souza                       | [#447](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/447) e [#448](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/447)                   |
 | Chaydson Ferreira                 |[#452](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/452)                        |
@@ -111,10 +111,11 @@ Por fim, sobre a correção do menu principal, o problema estava relacionado à 
 - **Tarefas concluídas:** 
 - **Dificuldades encontradas:** 
 - **Relatos:** Esperei o surgimento de issues no frontend do projeto, mas não aconteceu. Não peguei issues essa sprint, mas vou pegar issue de backend na próxima sprint caso não surjam issues de frontend.
+
 ### Mateus de Almeida
 - **Tarefas concluídas:** 
-- **Dificuldades encontradas:** 
-- **Relatos:** 
+- **Dificuldades encontradas:** Não sei se existe um endpoint para pesquisar distribuidoras pelo cnpj para fazer validações, por isso fiquei estacionado pensando em outra forma de implentar o pedido.
+- **Relatos:** Nessa sprint foquei em resolver uma pendência da sprint 2, na verdade eu só precisava implementar a validação no campo do cnpj quando o usuário estivesse editando uma distribuidora já existente, já que na criação de uma nova distribuidora eu já havia implementado essa validação e inclusive foi aceita no mr, então seria como uma nova issue relacionada a issue [#445](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/445), mas infelizmente ainda não consegui implementar o proposto.
 
 ### Pedro Henrique Rodrigues de Carvalho
 - **Tarefas concluídas:** Desenvolvimento de testes unitários para os componentes AverageConsumptionPlot, BaseCostComparisonCard, BaseCostComparisonPlot, CurrentBaseCostPlot, DetailedAnalysisHeader, MeasuredConsumptionPlot, MeasuredDemandPlot, RecommendationCard e revisão dos MRs da Sprint 3.
