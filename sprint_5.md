@@ -141,6 +141,6 @@ fizemos o consumo da API disponibilizada no site da ANEEL para retornar as tarif
 
 ### Silas Souza
 
-- **Tarefas concluídas:**
-- **Dificuldades encontradas:**
-- **Relatos:**
+- **Tarefas concluídas:** [#1](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mepa-contratos-vulnerabilidades/-/issues/1) e [#447](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/447)
+- **Dificuldades encontradas:** nenhuma
+- **Relatos:** Nessa sprint eu pariei com Lucas Spinosa e Mateus de Almeida para resolvermos a vunlnerabilidade de escalação de privilégios, e finalizei a issue que estava pareando com Gabriel Marcolino na entrega passada.
