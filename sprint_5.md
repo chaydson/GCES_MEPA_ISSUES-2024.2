@@ -35,7 +35,7 @@
 | Artur Rodrigues                   |                          |
 | Beatriz Nascimento                |                          |
 | Delziron Braz                     |                          |
-| Felipe Guimaraes                  |                          |
+| Felipe Guimaraes                  | [#4](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mepa-contratos-vulnerabilidades/-/issues/4)                         |
 | Gabriel Marcolino Rodrigues       |                          |
 | Guilherme de Sá Gonçalves         |                          |
 | João Barreto                      |                          |
@@ -79,9 +79,9 @@
 - **Relatos:** 
 
 ### Felipe Guimaraes 
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:** 
-- **Relatos:**
+- **Tarefas concluídas:** [#4](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mepa-contratos-vulnerabilidades/-/issues/4)
+- **Dificuldades encontradas:** a tentativa de correção de erros 
+- **Relatos:** foi feito o teste com as imagens recomendadas na issue porem as duas nao sao vesões estaveis e isso apresentou diversos problemas durante o build , devido a isso resolvemos testar versoes estaveis posteriores a atual, que seria a 3.12.9 e 3.13.2 porem ambas apresentaram um numero maior de vulnerabilidades do que a versão atual , entao devido a isso encerramos a issue sem fazer a alteração solicitada
 
 ### Gabriel Marcolino Rodrigues
 - **Tarefas concluídas:** 
