@@ -44,7 +44,7 @@
 | Mateus de Almeida                 |                          |
 | Pedro Henrique R. de Carvalho     |                          |
 | Silas Souza                       |                          |
-| Chaydson Ferreira                 |                          |
+| Chaydson Ferreira                 |[#3](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mepa-contratos-vulnerabilidades/-/issues/3)                          |
 
 ## Participação dos Membros da Equipe durante a Sprint 3
 
@@ -69,9 +69,9 @@
 - **Relatos:** 
 
 ### Chaydson Ferreira
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:** 
-- **Relatos:**
+- **Tarefas concluídas:** [#3](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mepa-contratos-vulnerabilidades/-/issues/3) 
+- **Dificuldades encontradas:**  realizar a validacao correta dos endpoints, impedindo o acesso e alteração indevida de dados.
+- **Relatos:** os usuáriso sem permissão conseguiam visualizar, modificar e excluir contas de energia de outras instituições, evidenciando falha crítica no controle de acesso, mas foi resolvido.
 
 ### Delziron Braz
 - **Tarefas concluídas:** 
