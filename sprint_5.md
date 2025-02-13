@@ -40,7 +40,7 @@
 | Guilherme de Sá Gonçalves     | [#2](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mepa-contratos-vulnerabilidades/-/issues/2)                                                                                                                                                                                                    |
 | João Barreto                  |    [#5](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mepa-contratos-vulnerabilidades/-/issues/5) [#260 Refatoração](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/260)                                                                                                                                                                                                                                                                                                             |
 | Lucas Felipe Soares           |                                                                                                                                                                                                                                                                                                                |
-| Lucas Spinosa                 |                                                                                                                                                                                                                                                                                                                |
+| Lucas Spinosa                 | [#1](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mepa-contratos-vulnerabilidades/-/issues/1)                                                                                                                                                                                                    |
 | Mateus de Almeida             | [#1](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mepa-contratos-vulnerabilidades/-/issues/1)                                                                                                                                                                                                                                                                                                               |
 | Pedro Henrique R. de Carvalho |  [#3](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mepa-contratos-vulnerabilidades/-/issues/3)                                                                                                                                                                                                                                                                                                              |
 | Silas Souza                   |                                                                                                                                                                                                                                                                                                                |
@@ -123,9 +123,9 @@ fizemos o consumo da API disponibilizada no site da ANEEL para retornar as tarif
 
 ### Lucas Spinosa
 
-- **Tarefas concluídas:**
-- **Dificuldades encontradas:**
-- **Relatos:**
+- **Tarefas concluídas:** [#1](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mepa-contratos-vulnerabilidades/-/issues/1)
+- **Dificuldades encontradas:** Entender Django
+- **Relatos:** Fiz pareamento com o Mateus de Alemida e o Silas Souza para resolver a vulnerabilidade. Tive dificuldade por não entender Django e não entender a estrutura do projeto, mas após pesquisar na internet, consegui navegar pelos arquivos e escrever um código inicial da solução, que foi posteriormente ajustado e melhoado pelos colegas citados.
 
 ### Mateus de Almeida
 
