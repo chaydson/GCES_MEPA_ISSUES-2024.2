@@ -42,7 +42,7 @@
 | Lucas Felipe Soares           |                                                                                                                                                                                                                                                                                                                |
 | Lucas Spinosa                 |                                                                                                                                                                                                                                                                                                                |
 | Mateus de Almeida             | [#1](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mepa-contratos-vulnerabilidades/-/issues/1)                                                                                                                                                                                                                                                                                                               |
-| Pedro Henrique R. de Carvalho |                                                                                                                                                                                                                                                                                                                |
+| Pedro Henrique R. de Carvalho |  [#3](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mepa-contratos-vulnerabilidades/-/issues/3)                                                                                                                                                                                                                                                                                                              |
 | Silas Souza                   |                                                                                                                                                                                                                                                                                                                |
 | Chaydson Ferreira             | [#3](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mepa-contratos-vulnerabilidades/-/issues/3)                                                                                                                                                                                                    |
 
@@ -135,9 +135,9 @@ fizemos o consumo da API disponibilizada no site da ANEEL para retornar as tarif
 
 ### Pedro Henrique Rodrigues de Carvalho
 
-- **Tarefas concluídas:**
-- **Dificuldades encontradas:**
-- **Relatos:**
+- **Tarefas concluídas:** [#3](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mepa-contratos-vulnerabilidades/-/issues/3)
+- **Dificuldades encontradas:** entender o código para implementar a correta validação dos endpoints
+- **Relatos:** Os usuários do sistema sem permissão conseguiam visualizar, modificar e excluir contas de energia de outras instituições, mostrando assim uma falha crítica no controle de acesso.
 
 ### Silas Souza
 
