@@ -125,7 +125,7 @@ fizemos o consumo da API disponibilizada no site da ANEEL para retornar as tarif
 
 - **Tarefas concluídas:** [#1](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mepa-contratos-vulnerabilidades/-/issues/1)
 - **Dificuldades encontradas:** Entender Django
-- **Relatos:** Fiz pareamento com o Mateus de Alemida e o Silas Souza para resolver a vulnerabilidade. Tive dificuldade por não entender Django e não entender a estrutura do projeto, mas após pesquisar na internet, consegui navegar pelos arquivos e escrever um código inicial da solução, que foi posteriormente ajustado e melhoado pelos colegas citados.
+- **Relatos:** Fiz pareamento com o Mateus de Almeida e o Silas Souza para resolver a vulnerabilidade. Tive dificuldade por não entender Django e não entender a estrutura do projeto, mas após pesquisar na internet, consegui navegar pelos arquivos e escrever um código inicial da solução, que foi posteriormente ajustado e melhorado pelos colegas citados.
 
 ### Mateus de Almeida
 
