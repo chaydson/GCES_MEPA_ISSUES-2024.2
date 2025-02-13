@@ -30,11 +30,11 @@
 
 | Nome                          | Issues                                                                                                                                                                                                                                                                                                         |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Ana Beatriz Massuh            |                                                                                                                                                                                                                                                                                                                |
+| Ana Beatriz Massuh            | [#190](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/190)                                                                                                                                                                                                                                                                                                             
 | Artur Jackson                 | [#2](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mepa-contratos-vulnerabilidades/-/issues/2)                                                                                                                                                                                                    |
 | Artur Rodrigues               |                                                                                                                                                                                                                                                                                                                |
 | Beatriz Nascimento            | [#415](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/415)                                                                                                                                                                                                                |
-| Delziron Braz                 |                                                                                                                                                                                                                                                                                                                |
+| Delziron Braz                 | [#190](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/190)                                                                                                                                                                                                                                                                                                               |
 | Felipe Guimaraes              | [#4](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mepa-contratos-vulnerabilidades/-/issues/4)                                                                                                                                                                                                    |
 | Gabriel Marcolino Rodrigues   | [#190](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/190), [#4](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mepa-contratos-vulnerabilidades/-/issues/4) e [#447](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/447) |
 | Guilherme de Sá Gonçalves     | [#2](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mepa-contratos-vulnerabilidades/-/issues/2)                                                                                                                                                                                                    |
@@ -50,9 +50,9 @@
 
 ### Ana Beatriz Massuh
 
-- **Tarefas concluídas:**
-- **Dificuldades encontradas:**
-- **Relatos:**
+- **Tarefas concluídas:** [#190](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/190)
+- **Dificuldades encontradas:** Um dos principais desafios foi a realização de testes na REST API, pois as rotas exigem autenticação, mas o Gabriel e o Lucas trabalharam para viabilizar os testes e garantir que a integração funcione corretamente.
+- **Relatos:** Durante esta sprint, atuei na implementação da integração com a API pública da Aneel. Trabalhei em conjunto com Lucas Felipe, Gabriel e Delziron para desenvolver um novo módulo exclusivo para essa integração, garantindo um endpoint dedicado às consultas na Aneel. Implementamos a integração com a rota disponibilizada pela Aneel, criamos um módulo específico para essa funcionalidade e realizamos ajustes nas variáveis de ambiente do projeto, adicionando a API da Aneel para suportar a nova funcionalidade. Com essa solução, agora é possível realizar consultas filtradas diretamente na Aneel, garantindo acesso contínuo e atualizado às informações.
 
 ### Artur Jackson
 
@@ -80,9 +80,9 @@
 
 ### Delziron Braz
 
-- **Tarefas concluídas:**
-- **Dificuldades encontradas:**
-- **Relatos:**
+- **Tarefas concluídas:** [#190](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/190)
+- **Dificuldades encontradas:** Realização de testes de RESTAPI
+- **Relatos:** Durante o desenvolvimento da issue [#190](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/190), trabalhei em colaboração com Ana Beatriz, Lucas Felipe e Gabriel para implementar uma solução que permitisse a integração com a API pública da Aneel. A solução desenvolvida possibilita a realização de consultas diretamente na API da Aneel, utilizando filtros como parâmetros para refinar os resultados. Para viabilizar essa funcionalidade, adicionamos um novo endpoint ao projeto, dedicado exclusivamente a essa consulta. Com essa implementação, agora é possível acessar os dados da Aneel a qualquer momento, garantindo informações sempre atualizadas e diretamente da fonte.
 
 ### Felipe Guimaraes
 
