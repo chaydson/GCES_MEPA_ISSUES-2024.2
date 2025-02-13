@@ -56,13 +56,13 @@
 
 ### Artur Jackson
 
-- **Tarefas concluídas:**
-- **Dificuldades encontradas:**
-- **Relatos:**
+- **Tarefas concluídas:** [#2](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mepa-contratos-vulnerabilidades/-/issues/2) Parcialmente
+- **Dificuldades encontradas:** Migrações nas tabelas do banco
+- **Relatos:** Nessa sprint pareei com o Guilherme na issue 2 de vulnerabilidades, e basicamente era pra trocar o id sequencial dos usuários para um UUID, o que conseguimos fazer na tabela de usuários, com uma migration, o problema surgiu nas outras tabelas, nas quais não conseguimos ainda mudar as referências de chaves externas de bigint para o novo tipo UUID, tentamos já 3 possibilidades, migrations, editar as models e derrubar o banco e criar de novo do zero. Não chegamos a tentar de fato a última alternativa, pois não queríamos excluir todas as migrations anteriores para fazer novas.
 
 ### Artur Rodrigues
 
-- **Tarefas concluídas:**
+- **Tarefas concluídas:** 
 - **Dificuldades encontradas:**
 - **Relatos:**
 
