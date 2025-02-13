@@ -32,13 +32,13 @@
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Ana Beatriz Massuh            | [#190](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/190)                                                                                                                                                                                                                                                                                                             
 | Artur Jackson                 | [#2](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mepa-contratos-vulnerabilidades/-/issues/2)                                                                                                                                                                                                    |
-| Artur Rodrigues               |                                                                                                                                                                                                                                                                                                                |
+| Artur Rodrigues               |  [#5](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mepa-contratos-vulnerabilidades/-/issues/5) [#260 Refatoração](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/260)                                                                                                                                                                                                                                                                                                              |
 | Beatriz Nascimento            | [#415](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/415)                                                                                                                                                                                                                |
 | Delziron Braz                 | [#190](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/190)                                                                                                                                                                                                                                                                                                               |
 | Felipe Guimaraes              | [#4](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mepa-contratos-vulnerabilidades/-/issues/4)                                                                                                                                                                                                    |
 | Gabriel Marcolino Rodrigues   | [#190](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-api/-/issues/190), [#4](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mepa-contratos-vulnerabilidades/-/issues/4) e [#447](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/447) |
 | Guilherme de Sá Gonçalves     | [#2](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mepa-contratos-vulnerabilidades/-/issues/2)                                                                                                                                                                                                    |
-| João Barreto                  |                                                                                                                                                                                                                                                                                                                |
+| João Barreto                  |    [#5](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mepa-contratos-vulnerabilidades/-/issues/5) [#260 Refatoração](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/260)                                                                                                                                                                                                                                                                                                             |
 | Lucas Felipe Soares           |                                                                                                                                                                                                                                                                                                                |
 | Lucas Spinosa                 |                                                                                                                                                                                                                                                                                                                |
 | Mateus de Almeida             | [#1](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mepa-contratos-vulnerabilidades/-/issues/1)                                                                                                                                                                                                                                                                                                               |
@@ -62,9 +62,9 @@
 
 ### Artur Rodrigues
 
-- **Tarefas concluídas:** 
-- **Dificuldades encontradas:**
-- **Relatos:**
+- **Tarefas concluídas:** [#5](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mepa-contratos-vulnerabilidades/-/issues/5) (Parcialmente) [#260 Refatoração](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/260) 
+- **Dificuldades encontradas:** Em relação à issue 5, tive dificuldade em criar um usuário não privilegiado para o container e configurar a execução dos processos com ele (sugestão dada para resolução do problema). Houveram problemas com o Dockle.
+- **Relatos:** Pareei com o João Barreto nesta última sprint e basicamente mativemos os padrões das últimas sprints. Em questão de comunicação foi tudo tranquilo, nosso único problema mesmo foi a questão da configuração de um usuário root para resolver o problema juntamente com o Dockle.
 
 ### Beatriz Nascimento
 
@@ -110,9 +110,10 @@ fizemos o consumo da API disponibilizada no site da ANEEL para retornar as tarif
 
 ### João Barreto
 
-- **Tarefas concluídas:**
-- **Dificuldades encontradas:**
-- **Relatos:**
+- **Tarefas concluídas:** [#5](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mepa-contratos-vulnerabilidades/-/issues/5) (Parcialmente) [#260 Refatoração](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/260) 
+- **Dificuldades encontradas:** Em relação à issue 5, tive dificuldade em criar um usuário não privilegiado para o container e configurar a execução dos processos com ele (sugestão dada para resolução do problema). Houveram problemas com o Dockle.
+- **Relatos:** Pareei com o Artur Rodrigues nesta última sprint e basicamente mativemos os padrões das últimas sprints. Em questão de comunicação foi tudo tranquilo, nosso único problema mesmo foi a questão da configuração de um usuário root para resolver o problema juntamente com o Dockle.
+
 
 ### Lucas Felipe Soares
 
