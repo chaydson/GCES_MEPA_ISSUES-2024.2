@@ -33,7 +33,7 @@
 | Ana Beatriz Massuh                |                          |
 | Artur Jackson                     |                          |
 | Artur Rodrigues                   |                          |
-| Beatriz Nascimento                |                          |
+| Beatriz Nascimento                |  [#415](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/415)                       |
 | Delziron Braz                     |                          |
 | Felipe Guimaraes                  | [#4](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mepa-contratos-vulnerabilidades/-/issues/4)                         |
 | Gabriel Marcolino Rodrigues       |                          |
@@ -65,8 +65,9 @@
 - **Relatos:** 
 
 ### Beatriz Nascimento
-- **Tarefas concluídas:** 
-- **Relatos:** 
+- **Tarefas concluídas:** [#415](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mec-energia-web/-/issues/415)
+- **Relatos:** Componentizar tabela de faturas da aba Faturas para reutilizar na prévia de Importar CSV. Realizar a implementação de um único componente de tabela que possa ser reutilizado pelas duas telas.
+- **Dificuldades encontradas:**  minha maior dificuldade foi identificar as semelhanças e diferenças entre os dois casos de uso da tabela e tentar manter o componente reutilizável para ser flexível o suficiente para atender a ambos os casos, mas sem se tornar complexo demais.
 
 ### Chaydson Ferreira
 - **Tarefas concluídas:** [#3](https://gitlab.com/lappis-unb/projetos-energia/mec-energia/mepa-contratos-vulnerabilidades/-/issues/3) 
